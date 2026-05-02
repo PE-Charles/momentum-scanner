@@ -5,13 +5,13 @@
       "file": "signals_2026-05-02.json",
       "total_movers": 250,
       "signals": 250,
-      "confirmed": 229,
+      "confirmed": 228,
       "top_conviction": {
         "ticker": "VUL.V",
         "score": 85,
         "grade": "A"
       },
-      "runtime_seconds": 592
+      "runtime_seconds": 541
     },
     {
       "date": "2026-04-23",
