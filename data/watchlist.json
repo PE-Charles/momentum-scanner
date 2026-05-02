@@ -1,0 +1,16 @@
+[
+  {
+    "ticker": "HUT.TO",
+    "entry_price": 102.61,
+    "trade_type": "A",
+    "notes": "",
+    "added_at": "2026-04-18T12:03:29.735840"
+  },
+  {
+    "ticker": "BITF.TO",
+    "entry_price": 3.96,
+    "trade_type": "A",
+    "notes": "",
+    "added_at": "2026-04-18T12:03:56.066260"
+  }
+]

@@ -1,0 +1,169 @@
+@import "tailwindcss";
+
+@theme {
+  --color-warm-bg: #F3F1EE;
+  --color-card: #FFFFFF;
+  --color-card-secondary: #FAF9F7;
+  --color-border: #E5E2DC;
+  --color-text-primary: #2D2A26;
+  --color-text-secondary: #6B6660;
+  --color-text-muted: #8C8680;
+  --color-rose-accent: #C25A62;
+  --color-rose-light: #FFF5F5;
+  --color-rose-hover: #FFE8E8;
+  --color-up-green: #1A8754;
+  --color-up-green-bg: #E8F5EE;
+  --color-vol-amber: #B87B2B;
+  --color-vol-amber-bg: #FDF3E3;
+  --color-down-red: #C93B3B;
+  --color-down-red-bg: #FDEAEA;
+  --font-family-sans: 'Inter', system-ui, sans-serif;
+  --font-family-mono: 'JetBrains Mono', ui-monospace, monospace;
+}
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: #F3F1EE;
+  color: #2D2A26;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Catalyst pill styles */
+.catalyst-green {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 10px;
+  border-radius: 9999px;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.025em;
+  text-transform: uppercase;
+  background-color: #E8F5EE;
+  color: #1A8754;
+}
+
+.catalyst-yellow {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 10px;
+  border-radius: 9999px;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.025em;
+  text-transform: uppercase;
+  background-color: #FDF3E3;
+  color: #B87B2B;
+}
+
+.catalyst-red {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 10px;
+  border-radius: 9999px;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.025em;
+  text-transform: uppercase;
+  background-color: #FDEAEA;
+  color: #C93B3B;
+}
+
+.catalyst-none {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 10px;
+  border-radius: 9999px;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.025em;
+  text-transform: uppercase;
+  background-color: #F3F1EE;
+  color: #8C8680;
+}
+
+/* Signal pill */
+.signal-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 1px 7px;
+  border-radius: 4px;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  background-color: #FFF5F5;
+  color: #C25A62;
+  border: 1px solid #FFE8E8;
+  white-space: nowrap;
+}
+
+/* Trend pill (macro trends) */
+.trend-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 1px 7px;
+  border-radius: 4px;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  background-color: #EFF6FF;
+  color: #2563EB;
+  border: 1px solid #BFDBFE;
+  white-space: nowrap;
+}
+
+/* Row hover */
+.row-hover:hover {
+  background-color: #FFF5F5;
+}
+
+/* Row selected */
+.row-selected {
+  background-color: #FFE8E8 !important;
+  border-left: 3px solid #C25A62;
+}
+
+/* Momentum bar */
+.momentum-bar {
+  width: 48px;
+  height: 5px;
+  background-color: #E5E2DC;
+  border-radius: 9999px;
+  overflow: hidden;
+}
+
+.momentum-fill {
+  height: 100%;
+  border-radius: 9999px;
+  transition: width 0.3s ease;
+}
+
+/* News line truncation */
+.news-line {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 360px;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #F3F1EE;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #E5E2DC;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #8C8680;
+}

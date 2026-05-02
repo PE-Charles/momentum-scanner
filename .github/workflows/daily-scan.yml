@@ -1,0 +1,68 @@
+name: Daily Scan
+
+on:
+  schedule:
+    - cron: '0 21 * * 1-5'  # 9pm UTC = 5pm ET, weekdays only
+  workflow_dispatch:          # manual trigger from GitHub UI
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Python dependencies
+        run: pip install yfinance flask flask-cors feedparser anthropic apscheduler requests python-dotenv
+
+      - name: Run daily scan
+        run: python -m scanner.scheduler
+
+      - name: Commit scan results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/signals_*.json data/scan_history.json data/universe_full.json
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: daily scan $(date +%Y-%m-%d) [skip ci]"
+            git push
+          fi
+
+      - name: Install dashboard dependencies
+        working-directory: dashboard
+        run: npm ci
+
+      - name: Build dashboard
+        working-directory: dashboard
+        env:
+          VITE_BASE_PATH: /${{ github.event.repository.name }}/
+        run: npm run build
+
+      - name: Copy data files into build
+        run: |
+          mkdir -p dashboard/dist/data
+          cp data/signals_latest.json dashboard/dist/data/
+          cp data/scan_history.json dashboard/dist/data/
+          for f in data/signals_20*.json; do
+            cp "$f" dashboard/dist/data/ 2>/dev/null || true
+          done
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dashboard/dist
