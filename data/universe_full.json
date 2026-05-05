@@ -767,7 +767,9 @@
     "yf_ticker": "AIML.CN",
     "name": "AI/ML Innovations Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Health Information Services",
+    "market_cap_cad": 11429450
   },
   {
     "ticker": "AIP.U.V",
@@ -805,7 +807,9 @@
     "yf_ticker": "AISX.V",
     "name": "Aisix Solutions Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "market_cap_cad": 3085017
   },
   {
     "ticker": "AIV.P.V",
@@ -3747,7 +3751,9 @@
     "yf_ticker": "CANS.V",
     "name": "Wildpack Beverage Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Specialty Business Services",
+    "market_cap_cad": 1001837
   },
   {
     "ticker": "CANU.CN",
@@ -3916,7 +3922,9 @@
     "yf_ticker": "CBLU.V",
     "name": "Clear Blue Technologies International Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Solar",
+    "market_cap_cad": 4716115
   },
   {
     "ticker": "CBR.V",
@@ -4609,7 +4617,9 @@
     "yf_ticker": "CL.CN",
     "name": "Cresco Labs Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "market_cap_cad": 532108544
   },
   {
     "ticker": "CLC.CN",
@@ -6456,7 +6466,9 @@
     "yf_ticker": "DOSE.CN",
     "name": "Rapid Dose Therapeutics Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "market_cap_cad": 14830105
   },
   {
     "ticker": "DPF.V",
@@ -8030,7 +8042,9 @@
     "yf_ticker": "FEX.V",
     "name": "Fjordland Exploration Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 2073388
   },
   {
     "ticker": "FF.TO",
@@ -8461,7 +8475,9 @@
     "yf_ticker": "FNI.CN",
     "name": "Fathom Nickel Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 8053467
   },
   {
     "ticker": "FNQ.CN",
@@ -8760,7 +8776,9 @@
     "yf_ticker": "FTEC.V",
     "name": "Fintech Select Ltd.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "market_cap_cad": 3602228
   },
   {
     "ticker": "FTEL.CN",
@@ -9556,7 +9574,9 @@
     "yf_ticker": "GKO.V",
     "name": "Geekco Technologies Corporation",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "market_cap_cad": 6720037
   },
   {
     "ticker": "GLAD.V",
@@ -10347,7 +10367,9 @@
     "yf_ticker": "GVR.V",
     "name": "Grosvenor Resource Corporation",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "market_cap_cad": 3340070
   },
   {
     "ticker": "GWAY.CN",
@@ -11129,7 +11151,9 @@
     "yf_ticker": "IAN.CN",
     "name": "iAnthus Capital Holdings, Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "market_cap_cad": 69725512
   },
   {
     "ticker": "IAU.TO",
@@ -14832,7 +14856,9 @@
     "yf_ticker": "MUSH.V",
     "name": "Mercanto Holdings Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "market_cap_cad": 6717708
   },
   {
     "ticker": "MUX.TO",
@@ -15834,7 +15860,9 @@
     "yf_ticker": "NURS.V",
     "name": "Hydreight Technologies Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Health Information Services",
+    "market_cap_cad": 197331904
   },
   {
     "ticker": "NUVG.NE",
@@ -16468,7 +16496,9 @@
     "yf_ticker": "PALS.V",
     "name": "Paragon Advanced Labs Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Scientific & Technical Instruments",
+    "market_cap_cad": 105604168
   },
   {
     "ticker": "PANO.P.V",
@@ -16949,7 +16979,9 @@
     "yf_ticker": "PHOS.CN",
     "name": "First Phosphate Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 243719904
   },
   {
     "ticker": "PHR.TO",
@@ -17075,7 +17107,9 @@
     "yf_ticker": "PLAS.CN",
     "name": "PlasCred Circular Innovations Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Waste Management",
+    "market_cap_cad": 14479456
   },
   {
     "ticker": "PLDI.TO",
@@ -17196,7 +17230,9 @@
     "yf_ticker": "PMX.V",
     "name": "ProAm Explorations Corporation",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "market_cap_cad": 2843559
   },
   {
     "ticker": "PNC.A.TO",
@@ -17377,7 +17413,9 @@
     "yf_ticker": "PRL.TO",
     "name": "Propel Holdings Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Financial Services",
+    "industry": "Credit Services",
+    "market_cap_cad": 973849600
   },
   {
     "ticker": "PRM.TO",
@@ -17456,7 +17494,9 @@
     "yf_ticker": "PSI.TO",
     "name": "Pason Systems Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "market_cap_cad": 1195819392
   },
   {
     "ticker": "PSIL.CN",
@@ -17600,7 +17640,9 @@
     "yf_ticker": "PWER.V",
     "name": "Global Power Solutions Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Engineering & Construction",
+    "market_cap_cad": 7295093
   },
   {
     "ticker": "PWF.PF.A.TO",
@@ -18126,7 +18168,9 @@
     "yf_ticker": "REE.V",
     "name": "ReeXploration Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 9466037
   },
   {
     "ticker": "REG.V",
@@ -18198,7 +18242,9 @@
     "yf_ticker": "RFX.V",
     "name": "Reeflex Solutions Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "market_cap_cad": 5336172
   },
   {
     "ticker": "RGC.V",
@@ -18676,7 +18722,9 @@
     "yf_ticker": "RUSH.V",
     "name": "Carolina Rush Corporation",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 9987943
   },
   {
     "ticker": "RUU.CN",
@@ -18755,7 +18803,9 @@
     "yf_ticker": "RXM.CN",
     "name": "Rockex Mining Corporation",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 4010620
   },
   {
     "ticker": "RY.TO",
@@ -19373,7 +19423,9 @@
     "yf_ticker": "SHRC.CN",
     "name": "Sharc International Systems Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Pollution & Treatment Controls",
+    "market_cap_cad": 16414443
   },
   {
     "ticker": "SHRP.V",
@@ -19837,7 +19889,9 @@
     "yf_ticker": "SPC.V",
     "name": "SPC Nickel Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 27754038
   },
   {
     "ticker": "SPD.V",
@@ -20723,7 +20777,9 @@
     "yf_ticker": "TGO.TO",
     "name": "TeraGo Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Communication Services",
+    "industry": "Telecom Services",
+    "market_cap_cad": 34724720
   },
   {
     "ticker": "TGOL.V",
@@ -20937,7 +20993,9 @@
     "yf_ticker": "TMIN.CN",
     "name": "Teako Minerals Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 6127999
   },
   {
     "ticker": "TMO.TO",
@@ -20958,7 +21016,9 @@
     "yf_ticker": "TN.CN",
     "name": "Tartisan Nickel Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 46114664
   },
   {
     "ticker": "TNGD.V",
@@ -21142,7 +21202,9 @@
     "yf_ticker": "TRIP.CN",
     "name": "Red Light Holland Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "market_cap_cad": 19156984
   },
   {
     "ticker": "TRO.V",
@@ -21498,7 +21560,9 @@
     "yf_ticker": "UG.CN",
     "name": "Upside Gold Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 83198344
   },
   {
     "ticker": "UGD.V",
@@ -21747,7 +21811,9 @@
     "yf_ticker": "VCT.V",
     "name": "Volt Carbon Technologies Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 10501244
   },
   {
     "ticker": "VCU.V",
@@ -22736,7 +22802,9 @@
     "yf_ticker": "XBOT.V",
     "name": "Realbotix Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Computer Hardware",
+    "market_cap_cad": 0
   },
   {
     "ticker": "XCAP.P.V",
@@ -23166,6 +23234,8 @@
     "yf_ticker": "ZYUS.V",
     "name": "ZYUS Life Sciences Corporation",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "market_cap_cad": 36032192
   }
 ]

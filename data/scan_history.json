@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-05-05",
+      "file": "signals_2026-05-05.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 237,
+      "top_conviction": {
+        "ticker": "LOBE.CN",
+        "score": 80,
+        "grade": "A"
+      },
+      "runtime_seconds": 542
+    },
+    {
       "date": "2026-05-04",
       "file": "signals_2026-05-04.json",
       "total_movers": 250,
