@@ -13988,7 +13988,9 @@
     "yf_ticker": "METX.CN",
     "name": "ME Therapeutics Holdings Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "market_cap_cad": 88646008
   },
   {
     "ticker": "MEX.V",
@@ -15515,7 +15517,9 @@
     "yf_ticker": "NOM.CN",
     "name": "Norsemont Mining Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 98916304
   },
   {
     "ticker": "NOP.CN",
@@ -17390,7 +17394,9 @@
     "yf_ticker": "PREV.CN",
     "name": "PreveCeutical Medical Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "market_cap_cad": 14670299
   },
   {
     "ticker": "PRG.V",
@@ -17928,7 +17934,9 @@
     "yf_ticker": "QYOU.V",
     "name": "Qyou Media Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Communication Services",
+    "industry": "Entertainment",
+    "market_cap_cad": 17387744
   },
   {
     "ticker": "QZM.V",
@@ -18907,7 +18915,9 @@
     "yf_ticker": "SAM.TO",
     "name": "Starcore International Mines Ltd.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 72270816
   },
   {
     "ticker": "SAND.CN",
@@ -19474,7 +19484,9 @@
     "yf_ticker": "SII.TO",
     "name": "Sprott Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "market_cap_cad": 5354516480
   },
   {
     "ticker": "SILV.V",
@@ -20578,7 +20590,9 @@
     "yf_ticker": "TCEC.CN",
     "name": "Terra Clean Energy Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Energy",
+    "industry": "Uranium",
+    "market_cap_cad": 7833408
   },
   {
     "ticker": "TCF.CN",
@@ -21390,7 +21404,9 @@
     "yf_ticker": "TTZ.V",
     "name": "Total Telcom Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Communication Equipment",
+    "market_cap_cad": 9908631
   },
   {
     "ticker": "TUD.V",
@@ -22451,7 +22467,9 @@
     "yf_ticker": "WG.CN",
     "name": "Westward Gold Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 24515724
   },
   {
     "ticker": "WGF.V",
@@ -23155,7 +23173,9 @@
     "yf_ticker": "ZIGY.CN",
     "name": "Stardust Metal Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 18184720
   },
   {
     "ticker": "ZLTO.V",
