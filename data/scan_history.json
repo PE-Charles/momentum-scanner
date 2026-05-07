@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-05-07",
+      "file": "signals_2026-05-07.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 231,
+      "top_conviction": {
+        "ticker": "NRED.CN",
+        "score": 86,
+        "grade": "A"
+      },
+      "runtime_seconds": 504
+    },
+    {
       "date": "2026-05-06",
       "file": "signals_2026-05-06.json",
       "total_movers": 250,

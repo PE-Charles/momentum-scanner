@@ -3652,7 +3652,9 @@
     "yf_ticker": "CACR.CN",
     "name": "The Canadian Chrome Company Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 27259868
   },
   {
     "ticker": "CAD.V",
@@ -3832,7 +3834,9 @@
     "yf_ticker": "CASC.CN",
     "name": "Cascade Copper Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 3232724
   },
   {
     "ticker": "CASH.NE",
@@ -7051,7 +7055,9 @@
     "yf_ticker": "EGM.V",
     "name": "Engold Mines Ltd.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 2281485
   },
   {
     "ticker": "EGR.V",
@@ -10084,7 +10090,9 @@
     "yf_ticker": "GRUV.CN",
     "name": "Protium Clean Energy Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 3163185
   },
   {
     "ticker": "GRVA.P.V",
@@ -10921,7 +10929,9 @@
     "yf_ticker": "HMT.V",
     "name": "Halmont Properties Corporation",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "market_cap_cad": 170180160
   },
   {
     "ticker": "HO.P.V",
@@ -11059,7 +11069,9 @@
     "yf_ticker": "HUNT.CN",
     "name": "Gold Hunter Resources Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 14480295
   },
   {
     "ticker": "HUT.TO",
@@ -11083,7 +11095,9 @@
     "yf_ticker": "HWG.CN",
     "name": "Headwater Gold Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 39726180
   },
   {
     "ticker": "HWO.TO",
@@ -11891,14 +11905,18 @@
     "yf_ticker": "IZO.CN",
     "name": "Izotropic Corporation",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research",
+    "market_cap_cad": 21730174
   },
   {
     "ticker": "IZZ.V",
     "yf_ticker": "IZZ.V",
     "name": "International Prospect Ventures Ltd.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 3281690
   },
   {
     "ticker": "JAB.P.V",
@@ -14031,7 +14049,9 @@
     "yf_ticker": "MFI.TO",
     "name": "Maple Leaf Foods Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Consumer Defensive",
+    "industry": "Packaged Foods",
+    "market_cap_cad": 3853887488
   },
   {
     "ticker": "MFUN.TO",
@@ -15694,7 +15714,9 @@
     "yf_ticker": "NSG.CN",
     "name": "Northstar Gold Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 6849040
   },
   {
     "ticker": "NSTL.TO",
@@ -15829,7 +15851,9 @@
     "yf_ticker": "NUE.CN",
     "name": "NU E Power Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Utilities",
+    "industry": "Utilities - Renewable",
+    "market_cap_cad": 10994702
   },
   {
     "ticker": "NUG.V",
@@ -15968,7 +15992,9 @@
     "yf_ticker": "NWI.CN",
     "name": "Nuinsco Resources Limited",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 6765804
   },
   {
     "ticker": "NWST.V",
@@ -16349,7 +16375,9 @@
     "yf_ticker": "ORGN.CN",
     "name": "Origen Resources Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "market_cap_cad": 5434412
   },
   {
     "ticker": "ORIO.TO",
@@ -16771,7 +16799,9 @@
     "yf_ticker": "PESO.V",
     "name": "Pesorama Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Consumer Defensive",
+    "industry": "Discount Stores",
+    "market_cap_cad": 119876520
   },
   {
     "ticker": "PET.TO",
@@ -17442,7 +17472,9 @@
     "yf_ticker": "PRNC.CN",
     "name": "Prince Silver Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Silver",
+    "market_cap_cad": 35944556
   },
   {
     "ticker": "PRP.TO",
@@ -17753,7 +17785,9 @@
     "yf_ticker": "QCA.CN",
     "name": "Quinsam Capital Corporation",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "market_cap_cad": 4680822
   },
   {
     "ticker": "QCOM.TO",
@@ -17853,7 +17887,9 @@
     "yf_ticker": "QPT.V",
     "name": "Quest PharmaTech Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "market_cap_cad": 6765170
   },
   {
     "ticker": "QQCC.NE",
@@ -18294,7 +18330,9 @@
     "yf_ticker": "RI.CN",
     "name": "Royalties Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 28006702
   },
   {
     "ticker": "RIC.TO",
@@ -21485,7 +21523,9 @@
     "yf_ticker": "TWM.TO",
     "name": "Tidewater Midstream and Infrastructure Ltd.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Energy",
+    "industry": "Oil & Gas Midstream",
+    "market_cap_cad": 327479552
   },
   {
     "ticker": "TWO.V",
@@ -21541,7 +21581,9 @@
     "yf_ticker": "UCM.CN",
     "name": "United Critical Minerals Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 7843147
   },
   {
     "ticker": "UCU.V",
@@ -21585,7 +21627,9 @@
     "yf_ticker": "UGD.V",
     "name": "Unigold Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 90225792
   },
   {
     "ticker": "UIG.V",
@@ -21864,7 +21908,9 @@
     "yf_ticker": "VERT.V",
     "name": "Vertical Exploration Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 5351641
   },
   {
     "ticker": "VERY.NE",
