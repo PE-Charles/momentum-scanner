@@ -3178,7 +3178,9 @@
     "yf_ticker": "BOL.V",
     "name": "Bold Ventures Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 8261918
   },
   {
     "ticker": "BOLT.CN",
@@ -3211,7 +3213,9 @@
     "yf_ticker": "BOOM.CN",
     "name": "Galloper Gold Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 6197474
   },
   {
     "ticker": "BOS.TO",
@@ -5117,7 +5121,9 @@
     "yf_ticker": "CPH.TO",
     "name": "Cipher Pharmaceuticals Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "market_cap_cad": 499050496
   },
   {
     "ticker": "CPI.V",
@@ -9070,7 +9076,9 @@
     "yf_ticker": "GC.CN",
     "name": "Goldcana Resources Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 3525760
   },
   {
     "ticker": "GCBD.TO",
@@ -10898,7 +10906,9 @@
     "yf_ticker": "HML.CN",
     "name": "Heritage Mining Ltd.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "market_cap_cad": 6426392
   },
   {
     "ticker": "HMM.A.TO",
@@ -11613,7 +11623,9 @@
     "yf_ticker": "INNO.CN",
     "name": "InnoCan Pharma Corporation",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Consumer Defensive",
+    "industry": "Household & Personal Products",
+    "market_cap_cad": 26407792
   },
   {
     "ticker": "INTC.TO",
@@ -15737,7 +15749,9 @@
     "yf_ticker": "NT.CN",
     "name": "Newterra Resources Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 4304029
   },
   {
     "ticker": "NTAR.CN",
@@ -16238,7 +16252,9 @@
     "yf_ticker": "OMGA.CN",
     "name": "Omega Pacific Resources Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 8387233
   },
   {
     "ticker": "OMI.V",
@@ -17843,7 +17859,9 @@
     "yf_ticker": "QIM.CN",
     "name": "Quimbaya Gold Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 26673850
   },
   {
     "ticker": "QIMC.CN",
@@ -18258,7 +18276,9 @@
     "yf_ticker": "REVX.V",
     "name": "Rev Exploration Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 55119996
   },
   {
     "ticker": "REX.V",
@@ -18279,7 +18299,9 @@
     "yf_ticker": "RFR.CN",
     "name": "Renforth Resources Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 11605478
   },
   {
     "ticker": "RFX.V",
@@ -18411,7 +18433,9 @@
     "yf_ticker": "RKL.CN",
     "name": "Rockland Resources Ltd.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 18553352
   },
   {
     "ticker": "RKR.V",
@@ -18446,7 +18470,9 @@
     "yf_ticker": "RMB.V",
     "name": "Rumbu Holdings Ltd.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Consumer Cyclical",
+    "industry": "Personal Services",
+    "market_cap_cad": 9227750
   },
   {
     "ticker": "RMD.V",
@@ -19011,7 +19037,9 @@
     "yf_ticker": "SAT.V",
     "name": "Asian Television Network International Ltd.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Communication Services",
+    "industry": "Broadcasting",
+    "market_cap_cad": 1464175
   },
   {
     "ticker": "SATO.V",
@@ -19122,7 +19150,9 @@
     "yf_ticker": "SCD.V",
     "name": "Scandium Canada Ltd.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 69915704
   },
   {
     "ticker": "SCHN.TO",
@@ -19178,7 +19208,9 @@
     "yf_ticker": "SCU.CN",
     "name": "Sankamap Metals Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 26667352
   },
   {
     "ticker": "SCY.V",
@@ -20771,7 +20803,9 @@
     "yf_ticker": "TEX.CN",
     "name": "Targa Exploration Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 24093250
   },
   {
     "ticker": "TF.TO",
