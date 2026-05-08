@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-05-08",
+      "file": "signals_2026-05-08.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 232,
+      "top_conviction": {
+        "ticker": "TVI.V",
+        "score": 88,
+        "grade": "A"
+      },
+      "runtime_seconds": 485
+    },
+    {
       "date": "2026-05-07",
       "file": "signals_2026-05-07.json",
       "total_movers": 250,
