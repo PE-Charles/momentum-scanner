@@ -1707,7 +1707,9 @@
     "yf_ticker": "ATMY.CN",
     "name": "Antimony Resources Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 110976608
   },
   {
     "ticker": "ATOM.V",
@@ -2798,7 +2800,9 @@
     "yf_ticker": "BKI.TO",
     "name": "Black Iron Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 35216068
   },
   {
     "ticker": "BKM.V",
@@ -9092,7 +9096,9 @@
     "yf_ticker": "GCC.CN",
     "name": "Golden Cariboo Resources Ltd.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 11486551
   },
   {
     "ticker": "GCEI.TO",
@@ -9113,7 +9119,9 @@
     "yf_ticker": "GCN.V",
     "name": "Goldcliff Resource Corporation",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 3638155
   },
   {
     "ticker": "GCOM.V",
@@ -10071,7 +10079,9 @@
     "yf_ticker": "GRN.TO",
     "name": "Greenlane Renewables Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Specialty Industrial Machinery",
+    "market_cap_cad": 42286180
   },
   {
     "ticker": "GRSL.V",
@@ -12504,7 +12514,9 @@
     "yf_ticker": "KOG.CN",
     "name": "KO Gold Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 10076976
   },
   {
     "ticker": "KORE.V",
@@ -13009,7 +13021,9 @@
     "yf_ticker": "LIBR.CN",
     "name": "Libra Energy Materials Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 13454759
   },
   {
     "ticker": "LIF.TO",
@@ -14301,7 +14315,9 @@
     "yf_ticker": "MLP.V",
     "name": "Millennial Potash Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 282529568
   },
   {
     "ticker": "MM.CN",
@@ -14653,7 +14669,9 @@
     "yf_ticker": "MRM.CN",
     "name": "Micromem Technologies Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "market_cap_cad": 15650344
   },
   {
     "ticker": "MRMD.CN",
@@ -14814,7 +14832,9 @@
     "yf_ticker": "MTLO.V",
     "name": "Martello Technologies Group Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "market_cap_cad": 5837074
   },
   {
     "ticker": "MTS.V",
@@ -14991,7 +15011,9 @@
     "yf_ticker": "NATN.CN",
     "name": "Nation Gold Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 8303386
   },
   {
     "ticker": "NATO.CN",
@@ -15689,7 +15711,9 @@
     "yf_ticker": "NRX.V",
     "name": "NurExone Biologic Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "market_cap_cad": 60750264
   },
   {
     "ticker": "NSCI.V",
@@ -16138,14 +16162,18 @@
     "yf_ticker": "OCI.V",
     "name": "Orecap Invest Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 36008544
   },
   {
     "ticker": "OCO.V",
     "yf_ticker": "OCO.V",
     "name": "Oroco Resource Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 145049584
   },
   {
     "ticker": "ODV.V",
@@ -16377,7 +16405,9 @@
     "yf_ticker": "ORCL.V",
     "name": "Oracle Commodity Holding Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "market_cap_cad": 4579661
   },
   {
     "ticker": "ORE.TO",
@@ -17391,7 +17421,9 @@
     "yf_ticker": "PPM.V",
     "name": "Pacific Imperial Mines Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 1655207
   },
   {
     "ticker": "PPP.V",
@@ -17666,7 +17698,9 @@
     "yf_ticker": "PURR.CN",
     "name": "Panther Minerals Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 8325897
   },
   {
     "ticker": "PVF.A.V",
@@ -17680,7 +17714,9 @@
     "yf_ticker": "PVIS.V",
     "name": "Parvis Invest Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "market_cap_cad": 6692934
   },
   {
     "ticker": "PVT.V",
@@ -20388,7 +20424,9 @@
     "yf_ticker": "SURE.CN",
     "name": "SureNano Science Ltd.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals",
+    "market_cap_cad": 7459716
   },
   {
     "ticker": "SURF.UN.V",
@@ -22779,7 +22817,9 @@
     "yf_ticker": "WPR.V",
     "name": "CANPR Technology  LTD.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Consumer Cyclical",
+    "industry": "Personal Services",
+    "market_cap_cad": 2218034
   },
   {
     "ticker": "WPRT.TO",

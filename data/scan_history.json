@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-05-11",
+      "file": "signals_2026-05-11.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 231,
+      "top_conviction": {
+        "ticker": "VCT.V",
+        "score": 80,
+        "grade": "A"
+      },
+      "runtime_seconds": 517
+    },
+    {
       "date": "2026-05-08",
       "file": "signals_2026-05-08.json",
       "total_movers": 250,
