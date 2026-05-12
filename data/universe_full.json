@@ -2235,7 +2235,9 @@
     "yf_ticker": "BABY.TO",
     "name": "Else Nutrition Holdings Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Consumer Defensive",
+    "industry": "Packaged Foods",
+    "market_cap_cad": 1677938
   },
   {
     "ticker": "BAC.CN",
@@ -2303,7 +2305,9 @@
     "yf_ticker": "BARK.V",
     "name": "Black Spruce Exploration Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 1795997
   },
   {
     "ticker": "BARU.V",
@@ -3581,7 +3585,9 @@
     "yf_ticker": "BWR.V",
     "name": "BWR Exploration Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 1657656
   },
   {
     "ticker": "BX.TO",
@@ -8968,7 +8974,9 @@
     "yf_ticker": "FWM.CN",
     "name": "Flow Metals Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 3272911
   },
   {
     "ticker": "FWTC.V",
@@ -11328,7 +11336,9 @@
     "yf_ticker": "IDK.CN",
     "name": "ThreeD Capital Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "market_cap_cad": 11314516
   },
   {
     "ticker": "IDL.V",
@@ -13421,7 +13431,9 @@
     "yf_ticker": "LUX.CN",
     "name": "Newlox Gold Ventures Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Waste Management",
+    "market_cap_cad": 9914793
   },
   {
     "ticker": "LUXR.V",
@@ -14150,7 +14162,9 @@
     "yf_ticker": "MHUB.V",
     "name": "Minehub Technologies Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "market_cap_cad": 57086212
   },
   {
     "ticker": "MIDB.TO",
@@ -14949,7 +14963,9 @@
     "yf_ticker": "MYID.V",
     "name": "Reklaim Ltd.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "market_cap_cad": 5221432
   },
   {
     "ticker": "MYR.CN",
@@ -15448,7 +15464,9 @@
     "yf_ticker": "NIX.CN",
     "name": "NorthX Nickel Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 13820253
   },
   {
     "ticker": "NKE.TO",
@@ -17075,7 +17093,9 @@
     "yf_ticker": "PHRM.CN",
     "name": "PharmaTher Holdings Ltd.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "market_cap_cad": 7736620
   },
   {
     "ticker": "PHW.TO",
@@ -17224,7 +17244,9 @@
     "yf_ticker": "PLUR.V",
     "name": "Plurilock Security Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "market_cap_cad": 8757758
   },
   {
     "ticker": "PLXX.P.V",
@@ -18641,7 +18663,9 @@
     "yf_ticker": "RPP.V",
     "name": "Regent Pacific Properties Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "market_cap_cad": 2402340
   },
   {
     "ticker": "RPX.V",
@@ -18876,7 +18900,9 @@
     "yf_ticker": "RVV.CN",
     "name": "Revive Therapeutics Ltd.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "market_cap_cad": 13070285
   },
   {
     "ticker": "RVX.TO",
@@ -19993,7 +20019,9 @@
     "yf_ticker": "SPAI.CN",
     "name": "Sparc Al Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "market_cap_cad": 137822928
   },
   {
     "ticker": "SPB.TO",
@@ -20051,7 +20079,9 @@
     "yf_ticker": "SPN.V",
     "name": "Snipp Interactive Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Communication Services",
+    "industry": "Advertising Agencies",
+    "market_cap_cad": 14355691
   },
   {
     "ticker": "SPOT.V",
@@ -20074,7 +20104,9 @@
     "yf_ticker": "SPRQ.V",
     "name": "Sparq Systems Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Electrical Equipment & Parts",
+    "market_cap_cad": 111088352
   },
   {
     "ticker": "SPSA.P.V",
@@ -20677,7 +20709,9 @@
     "yf_ticker": "TBLL.V",
     "name": "Tombill Mines Limited",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 3955251
   },
   {
     "ticker": "TBLZ.P.V",
@@ -22300,7 +22334,9 @@
     "yf_ticker": "VST.CN",
     "name": "Victory Square Technologies Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "market_cap_cad": 72994232
   },
   {
     "ticker": "VTEN.V",
@@ -23019,7 +23055,9 @@
     "yf_ticker": "XRI.CN",
     "name": "Xcite Uranium Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Energy",
+    "industry": "Uranium",
+    "market_cap_cad": 12586824
   },
   {
     "ticker": "XRTX.V",
@@ -23133,7 +23171,9 @@
     "yf_ticker": "YFI.V",
     "name": "Edgewater Wireless Systems Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Communication Equipment",
+    "market_cap_cad": 10761054
   },
   {
     "ticker": "YGR.TO",
@@ -23154,7 +23194,9 @@
     "yf_ticker": "YMC.CN",
     "name": "Yukon Metals Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 61727040
   },
   {
     "ticker": "YNV.V",
@@ -23168,7 +23210,9 @@
     "yf_ticker": "YOO.V",
     "name": "Yangaroo Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information",
+    "market_cap_cad": 2532811
   },
   {
     "ticker": "YRB.TO",
@@ -23353,7 +23397,9 @@
     "yf_ticker": "ZONE.V",
     "name": "Zonetail Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "market_cap_cad": 4535935
   },
   {
     "ticker": "ZWQT.TO",
