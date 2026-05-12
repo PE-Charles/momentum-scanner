@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-05-12",
+      "file": "signals_2026-05-12.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 229,
+      "top_conviction": {
+        "ticker": "MSR.V",
+        "score": 83,
+        "grade": "A"
+      },
+      "runtime_seconds": 492
+    },
+    {
       "date": "2026-05-11",
       "file": "signals_2026-05-11.json",
       "total_movers": 250,
