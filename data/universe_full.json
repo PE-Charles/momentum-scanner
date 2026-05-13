@@ -4,7 +4,9 @@
     "yf_ticker": "AA.CN",
     "name": "Avventura Resources Ltd.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 2241666
   },
   {
     "ticker": "AAA.P.V",
@@ -25,7 +27,9 @@
     "yf_ticker": "AAB.TO",
     "name": "Aberdeen International Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "market_cap_cad": 4820888
   },
   {
     "ticker": "AAG.V",
@@ -2978,7 +2982,9 @@
     "yf_ticker": "BMET.V",
     "name": "Bemetals Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 19726382
   },
   {
     "ticker": "BMM.V",
@@ -12712,7 +12718,9 @@
     "yf_ticker": "LABS.TO",
     "name": "MediPharm Labs Corp.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "market_cap_cad": 38237784
   },
   {
     "ticker": "LAC.TO",
@@ -13930,7 +13938,9 @@
     "yf_ticker": "MEC.CN",
     "name": "Mustang Energy Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Energy",
+    "industry": "Uranium",
+    "market_cap_cad": 4019126
   },
   {
     "ticker": "MEDA.CN",
@@ -15109,7 +15119,9 @@
     "yf_ticker": "NBRK.CN",
     "name": "New Break Resources Ltd.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 31645986
   },
   {
     "ticker": "NBSC.TO",
@@ -17408,7 +17420,9 @@
     "yf_ticker": "POOL.V",
     "name": "Pool Safe Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Consumer Cyclical",
+    "industry": "Leisure",
+    "market_cap_cad": 3037919
   },
   {
     "ticker": "POR.V",
@@ -18607,7 +18621,9 @@
     "yf_ticker": "ROI.V",
     "name": "Route1 Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "market_cap_cad": 5156120
   },
   {
     "ticker": "ROK.V",
