@@ -1596,7 +1596,9 @@
     "yf_ticker": "ASG.V",
     "name": "Aurora Spine Corporation",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Medical Devices",
+    "market_cap_cad": 21865816
   },
   {
     "ticker": "ASL.V",
@@ -1965,7 +1967,9 @@
     "yf_ticker": "AVCN.TO",
     "name": "Avicanna Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "market_cap_cad": 16981904
   },
   {
     "ticker": "AVCR.V",
@@ -2430,7 +2434,9 @@
     "yf_ticker": "BCHT.TO",
     "name": "Birchtech Corp.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Pollution & Treatment Controls",
+    "market_cap_cad": 54979468
   },
   {
     "ticker": "BCT.TO",
@@ -3803,7 +3809,9 @@
     "yf_ticker": "CAPR.CN",
     "name": "Caprock Mining Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 18720984
   },
   {
     "ticker": "CAPT.V",
@@ -5806,7 +5814,9 @@
     "yf_ticker": "CVW.V",
     "name": "CVW Sustainable Royalties Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 323577824
   },
   {
     "ticker": "CWEB.TO",
@@ -7276,7 +7286,9 @@
     "yf_ticker": "EMN.V",
     "name": "Euro Manganese Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 19278610
   },
   {
     "ticker": "EMNT.V",
@@ -7977,7 +7989,9 @@
     "yf_ticker": "FCI.V",
     "name": "First Canadian Graphite Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 8933658
   },
   {
     "ticker": "FCII.TO",
@@ -16597,7 +16611,9 @@
     "yf_ticker": "PALI.V",
     "name": "Palisades Goldcorp Ltd.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 218392528
   },
   {
     "ticker": "PALS.V",
@@ -17288,7 +17304,9 @@
     "yf_ticker": "PMC.CN",
     "name": "Peloton Minerals Corporation",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 15256706
   },
   {
     "ticker": "PME.TO",
@@ -17671,7 +17689,9 @@
     "yf_ticker": "PTEC.V",
     "name": "Principal Technologies Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Health Information Services",
+    "market_cap_cad": 21232286
   },
   {
     "ticker": "PTF.V",
@@ -17970,7 +17990,9 @@
     "yf_ticker": "QNTM.CN",
     "name": "Quantum BioPharma Ltd.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "market_cap_cad": 60787148
   },
   {
     "ticker": "QPT.V",
@@ -18037,7 +18059,9 @@
     "yf_ticker": "QTRH.TO",
     "name": "Quarterhill Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Communication Equipment",
+    "market_cap_cad": 208766256
   },
   {
     "ticker": "QTWO.V",
@@ -19124,7 +19148,9 @@
     "yf_ticker": "SATO.V",
     "name": "SATO Technologies Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Financial Services",
+    "industry": "Capital Markets",
+    "market_cap_cad": 9005079
   },
   {
     "ticker": "SAU.TO",
@@ -20000,7 +20026,9 @@
     "yf_ticker": "SONA.CN",
     "name": "Sona Nanotech Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research",
+    "market_cap_cad": 36028204
   },
   {
     "ticker": "SOO.P.V",
@@ -20861,7 +20889,9 @@
     "yf_ticker": "TELY.TO",
     "name": "TelyRx Holdings Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Pharmaceutical Retailers",
+    "market_cap_cad": 146551280
   },
   {
     "ticker": "TERA.CN",
@@ -21067,7 +21097,9 @@
     "yf_ticker": "TINY.TO",
     "name": "Tiny Ltd.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "market_cap_cad": 162878624
   },
   {
     "ticker": "TITI.V",
@@ -22288,7 +22320,9 @@
     "yf_ticker": "VRDN.CN",
     "name": "Viridian Metals Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 22962012
   },
   {
     "ticker": "VREO.CN",
@@ -22302,7 +22336,9 @@
     "yf_ticker": "VROY.V",
     "name": "Vizsla Royalties Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 262776384
   },
   {
     "ticker": "VRR.V",
@@ -22662,7 +22698,9 @@
     "yf_ticker": "WGM.CN",
     "name": "WestGold Metals Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 5223725
   },
   {
     "ticker": "WGO.V",
@@ -23180,7 +23218,9 @@
     "yf_ticker": "YES.V",
     "name": "Char Technologies Ltd.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Waste Management",
+    "market_cap_cad": 42106432
   },
   {
     "ticker": "YFI.V",

@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-05-14",
+      "file": "signals_2026-05-14.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 228,
+      "top_conviction": {
+        "ticker": "FRX.TO",
+        "score": 86,
+        "grade": "A"
+      },
+      "runtime_seconds": 546
+    },
+    {
       "date": "2026-05-13",
       "file": "signals_2026-05-13.json",
       "total_movers": 250,
