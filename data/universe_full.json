@@ -1519,7 +1519,9 @@
     "yf_ticker": "ARQ.CN",
     "name": "Argo Gold Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 7929655
   },
   {
     "ticker": "ARS.CN",
@@ -1692,7 +1694,9 @@
     "yf_ticker": "ATHA.CN",
     "name": "Athena Gold Corporation",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "market_cap_cad": 16119027
   },
   {
     "ticker": "ATLE.V",
@@ -1983,7 +1987,9 @@
     "yf_ticker": "AVE.CN",
     "name": "Aventis Energy Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 15736865
   },
   {
     "ticker": "AVG.V",
@@ -2111,7 +2117,9 @@
     "yf_ticker": "AXE.V",
     "name": "Acceleware Ltd.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "market_cap_cad": 13597240
   },
   {
     "ticker": "AXET.P.V",
@@ -7096,7 +7104,9 @@
     "yf_ticker": "EGR.V",
     "name": "EGR Exploration Ltd.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 1459472
   },
   {
     "ticker": "EGT.V",
@@ -10430,7 +10440,9 @@
     "yf_ticker": "GWAY.CN",
     "name": "Greenway Greenhouse Cannabis Corporation",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "market_cap_cad": 23912016
   },
   {
     "ticker": "GWM.V",
@@ -11409,7 +11421,9 @@
     "yf_ticker": "IFOS.V",
     "name": "Itafos Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Agricultural Inputs",
+    "market_cap_cad": 531750176
   },
   {
     "ticker": "IFP.TO",
@@ -14965,7 +14979,9 @@
     "yf_ticker": "MVMD.CN",
     "name": "Mountain Valley MD Holdings Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "market_cap_cad": 29950174
   },
   {
     "ticker": "MX.TO",
@@ -15013,7 +15029,9 @@
     "yf_ticker": "NAHF.CN",
     "name": "North America Home Finance Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "market_cap_cad": 43379080
   },
   {
     "ticker": "NAM.V",
@@ -16754,7 +16772,9 @@
     "yf_ticker": "PCQ.V",
     "name": "Petrolympic Ltd.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "market_cap_cad": 17026790
   },
   {
     "ticker": "PCRX.V",
@@ -17830,7 +17850,9 @@
     "yf_ticker": "PXI.CN",
     "name": "Planet Ventures Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "market_cap_cad": 55503124
   },
   {
     "ticker": "PXT.TO",
@@ -18388,7 +18410,9 @@
     "yf_ticker": "RFA.TO",
     "name": "RFA Financial Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Real Estate",
+    "industry": "REIT - Diversified",
+    "market_cap_cad": 1156748160
   },
   {
     "ticker": "RFR.CN",
@@ -18427,7 +18451,9 @@
     "yf_ticker": "RGR.CN",
     "name": "Rio Grande Resources Ltd.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 7709620
   },
   {
     "ticker": "RGSI.TO",
@@ -18963,7 +18989,9 @@
     "yf_ticker": "RWB.CN",
     "name": "Red White & Bloom Brands Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "market_cap_cad": 16470891
   },
   {
     "ticker": "RX.V",
@@ -19284,7 +19312,9 @@
     "yf_ticker": "SCM.CN",
     "name": "Steadright Critical Minerals Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 9148252
   },
   {
     "ticker": "SCMI.V",
@@ -20384,7 +20414,9 @@
     "yf_ticker": "STN.TO",
     "name": "Stantec Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Engineering & Construction",
+    "market_cap_cad": 12135586816
   },
   {
     "ticker": "STND.V",
@@ -21048,7 +21080,9 @@
     "yf_ticker": "TICO.CN",
     "name": "Talent Infinity Resource Developments Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 22603268
   },
   {
     "ticker": "TIDE.P.V",
@@ -21948,7 +21982,9 @@
     "yf_ticker": "UUU.CN",
     "name": "Vanguard Mining Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Energy",
+    "industry": "Uranium",
+    "market_cap_cad": 9028240
   },
   {
     "ticker": "V.V",
@@ -21969,7 +22005,9 @@
     "yf_ticker": "VAND.V",
     "name": "Largo Physical Vanadium Corp",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 16480464
   },
   {
     "ticker": "VAU.V",
@@ -23259,7 +23297,9 @@
     "yf_ticker": "YNV.V",
     "name": "Ynvisible Interactive Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Electronic Components",
+    "market_cap_cad": 17458796
   },
   {
     "ticker": "YOO.V",
@@ -23340,7 +23380,9 @@
     "yf_ticker": "ZDC.V",
     "name": "Zedcor Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Security & Protection Services",
+    "market_cap_cad": 689970432
   },
   {
     "ticker": "ZEN.V",
