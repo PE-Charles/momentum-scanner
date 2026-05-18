@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-05-18",
+      "file": "signals_2026-05-18.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 227,
+      "top_conviction": {
+        "ticker": "CMI.V",
+        "score": 79,
+        "grade": "A"
+      },
+      "runtime_seconds": 482
+    },
+    {
       "date": "2026-05-15",
       "file": "signals_2026-05-15.json",
       "total_movers": 250,
