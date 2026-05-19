@@ -2599,7 +2599,9 @@
     "yf_ticker": "BETR.CN",
     "name": "BetterLife Pharma Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "market_cap_cad": 10516156
   },
   {
     "ticker": "BEW.V",
@@ -2731,7 +2733,9 @@
     "yf_ticker": "BIGT.V",
     "name": "Big Tree Carbon Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 1193198
   },
   {
     "ticker": "BILD.V",
@@ -3796,7 +3800,9 @@
     "yf_ticker": "CANU.CN",
     "name": "Canadian Uranium Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 22008442
   },
   {
     "ticker": "CANX.V",
@@ -4336,7 +4342,9 @@
     "yf_ticker": "CFW.TO",
     "name": "Calfrac Well Services Ltd.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "market_cap_cad": 626609984
   },
   {
     "ticker": "CFY.V",
@@ -4597,7 +4605,9 @@
     "yf_ticker": "CIO.V",
     "name": "Central Iron Ore Limited",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 5578739
   },
   {
     "ticker": "CITI.TO",
@@ -5259,7 +5269,9 @@
     "yf_ticker": "CRCL.CN",
     "name": "Corcel Exploration Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 8848770
   },
   {
     "ticker": "CRD.V",
@@ -6566,7 +6578,9 @@
     "yf_ticker": "DRC.CN",
     "name": "DRC Gold Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 25848562
   },
   {
     "ticker": "DRM.TO",
@@ -8087,7 +8101,9 @@
     "yf_ticker": "FEO.V",
     "name": "Oceanic Iron Ore Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 221531616
   },
   {
     "ticker": "FEX.V",
@@ -12173,7 +12189,9 @@
     "yf_ticker": "JUSH.CN",
     "name": "Jushi Holdings Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "market_cap_cad": 127805816
   },
   {
     "ticker": "JVR.P.V",
@@ -15078,7 +15096,9 @@
     "yf_ticker": "NATO.CN",
     "name": "North Atlantic Titanium Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 6968423
   },
   {
     "ticker": "NAU.V",
@@ -18143,7 +18163,9 @@
     "yf_ticker": "RAD.CN",
     "name": "Radial Research Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "market_cap_cad": 292301
   },
   {
     "ticker": "RAGE.V",
@@ -18341,7 +18363,9 @@
     "yf_ticker": "REDC.CN",
     "name": "Red Canyon Resources Ltd.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 12939590
   },
   {
     "ticker": "REE.V",
@@ -19051,7 +19075,9 @@
     "yf_ticker": "S.TO",
     "name": "Sherritt International Corporation",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 84394640
   },
   {
     "ticker": "SABA.V",
@@ -19760,7 +19786,9 @@
     "yf_ticker": "SKUR.CN",
     "name": "Sekur Private Data Ltd.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "market_cap_cad": 19010932
   },
   {
     "ticker": "SKYG.V",
@@ -20439,7 +20467,9 @@
     "yf_ticker": "STRM.V",
     "name": "Storm Exploration Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "market_cap_cad": 7026525
   },
   {
     "ticker": "STRR.V",
@@ -20699,7 +20729,9 @@
     "yf_ticker": "SYZ.TO",
     "name": "Sylogist Ltd.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "market_cap_cad": 77653392
   },
   {
     "ticker": "T.TO",
@@ -20854,7 +20886,9 @@
     "yf_ticker": "TCS.TO",
     "name": "TECSYS Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "market_cap_cad": 507709280
   },
   {
     "ticker": "TCW.TO",
@@ -22780,7 +22814,9 @@
     "yf_ticker": "WI.V",
     "name": "The Western Investment Company of Canada Limited",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Financial Services",
+    "industry": "Insurance - Diversified",
+    "market_cap_cad": 158851056
   },
   {
     "ticker": "WIFI.CN",
@@ -23047,7 +23083,9 @@
     "yf_ticker": "WWT.V",
     "name": "Water Ways Technologies Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Farm & Heavy Construction Machinery",
+    "market_cap_cad": 595141
   },
   {
     "ticker": "X.TO",
@@ -23373,7 +23411,9 @@
     "yf_ticker": "ZCT.V",
     "name": "Zero Candida Technologies Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Medical Devices",
+    "market_cap_cad": 3711277
   },
   {
     "ticker": "ZDC.V",
