@@ -4940,7 +4940,9 @@
     "yf_ticker": "CNO.V",
     "name": "California Nanotechnologies Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals",
+    "market_cap_cad": 9934222
   },
   {
     "ticker": "CNQ.TO",
@@ -5893,7 +5895,9 @@
     "yf_ticker": "CXXI.CN",
     "name": "C21 Investments Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "market_cap_cad": 45985352
   },
   {
     "ticker": "CYB.TO",
@@ -10069,7 +10073,9 @@
     "yf_ticker": "GRF.V",
     "name": "Green Rise Foods Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Consumer Defensive",
+    "industry": "Farm Products",
+    "market_cap_cad": 11195180
   },
   {
     "ticker": "GRG.V",
@@ -14834,7 +14840,9 @@
     "yf_ticker": "MSM.CN",
     "name": "Metalsource Mining Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 109309504
   },
   {
     "ticker": "MSR.V",
@@ -14926,7 +14934,9 @@
     "yf_ticker": "MTTA.CN",
     "name": "Meta Critical Minerals Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 36495924
   },
   {
     "ticker": "MTX.V",
@@ -20701,7 +20711,9 @@
     "yf_ticker": "SXTY.CN",
     "name": "Sixty North Gold Mining Ltd.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 27645424
   },
   {
     "ticker": "SYG.V",
@@ -23397,7 +23409,9 @@
     "yf_ticker": "ZBNI.V",
     "name": "Zeb Nickel Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 6678471
   },
   {
     "ticker": "ZC.V",
