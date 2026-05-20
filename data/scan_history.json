@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-05-20",
+      "file": "signals_2026-05-20.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 231,
+      "top_conviction": {
+        "ticker": "MEK.V",
+        "score": 85,
+        "grade": "A"
+      },
+      "runtime_seconds": 498
+    },
+    {
       "date": "2026-05-19",
       "file": "signals_2026-05-19.json",
       "total_movers": 250,
