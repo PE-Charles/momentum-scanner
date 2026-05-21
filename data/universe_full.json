@@ -9623,7 +9623,9 @@
     "yf_ticker": "GIII.V",
     "name": "ReGen III Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Energy",
+    "industry": "Oil & Gas Refining & Marketing",
+    "market_cap_cad": 30944538
   },
   {
     "ticker": "GIL.TO",
@@ -9855,7 +9857,9 @@
     "yf_ticker": "GOK.V",
     "name": "GINSMS Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Communication Services",
+    "industry": "Telecom Services",
+    "market_cap_cad": 4677959
   },
   {
     "ticker": "GOLD.TO",
@@ -15624,7 +15628,9 @@
     "yf_ticker": "NNX.V",
     "name": "Nickel North Exploration Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 8753593
   },
   {
     "ticker": "NOA.TO",
@@ -15874,7 +15880,9 @@
     "yf_ticker": "NTAR.CN",
     "name": "Nextech3D.AI Corporation",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "market_cap_cad": 34098144
   },
   {
     "ticker": "NTB.V",
@@ -16071,7 +16079,9 @@
     "yf_ticker": "NVR.CN",
     "name": "North Valley Resources Ltd.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "market_cap_cad": 3505124
   },
   {
     "ticker": "NVRO.V",
@@ -16240,7 +16250,9 @@
     "yf_ticker": "OCEN.V",
     "name": "Transoceanic Investments Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 11850481
   },
   {
     "ticker": "OCG.TO",
@@ -17647,7 +17659,9 @@
     "yf_ticker": "PRR.CN",
     "name": "Prospect Ridge Resources Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 6261370
   },
   {
     "ticker": "PRU.TO",
@@ -19424,7 +19438,9 @@
     "yf_ticker": "SDI.V",
     "name": "Stampede Drilling Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Energy",
+    "industry": "Oil & Gas Drilling",
+    "market_cap_cad": 46105396
   },
   {
     "ticker": "SDR.V",
@@ -21877,7 +21893,9 @@
     "yf_ticker": "ULTH.CN",
     "name": "United Lithium Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 16285416
   },
   {
     "ticker": "UNC.TO",
@@ -22246,7 +22264,9 @@
     "yf_ticker": "VIVI.CN",
     "name": "TempraMed Technologies Ltd.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Medical Devices",
+    "market_cap_cad": 54921144
   },
   {
     "ticker": "VIZ.V",

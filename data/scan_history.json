@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-05-21",
+      "file": "signals_2026-05-21.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 229,
+      "top_conviction": {
+        "ticker": "LPS.V",
+        "score": 85,
+        "grade": "A"
+      },
+      "runtime_seconds": 507
+    },
+    {
       "date": "2026-05-20",
       "file": "signals_2026-05-20.json",
       "total_movers": 250,
