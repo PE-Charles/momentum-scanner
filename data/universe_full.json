@@ -6804,7 +6804,9 @@
     "yf_ticker": "EAGL.CN",
     "name": "EagleOne Metals Corporation",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 11892560
   },
   {
     "ticker": "EAGR.TO",
@@ -7606,7 +7608,9 @@
     "yf_ticker": "ESAU.CN",
     "name": "ESGold Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "market_cap_cad": 60724400
   },
   {
     "ticker": "ESBL.V",
@@ -15678,7 +15682,9 @@
     "yf_ticker": "NOP.CN",
     "name": "Nevada Organic Phosphate Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 33391680
   },
   {
     "ticker": "NOU.TO",
@@ -16162,7 +16168,9 @@
     "yf_ticker": "NXG.V",
     "name": "NexgenRx Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Health Information Services",
+    "market_cap_cad": 30224784
   },
   {
     "ticker": "NXH.V",
@@ -17313,7 +17321,9 @@
     "yf_ticker": "PLSR.V",
     "name": "Pulsar Helium Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 263008352
   },
   {
     "ticker": "PLTH.CN",
@@ -17989,7 +17999,9 @@
     "yf_ticker": "QESS.CN",
     "name": "Aegis Critical Energy Defence Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Electrical Equipment & Parts",
+    "market_cap_cad": 50502156
   },
   {
     "ticker": "QETH.NE",
@@ -20005,7 +20017,9 @@
     "yf_ticker": "SNA.CN",
     "name": "Star Navigation Systems Group Ltd.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "market_cap_cad": 15350359
   },
   {
     "ticker": "SNAG.V",
@@ -20551,7 +20565,9 @@
     "yf_ticker": "SUGR.V",
     "name": "Sucro Limited",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Consumer Defensive",
+    "industry": "Confectioners",
+    "market_cap_cad": 294851232
   },
   {
     "ticker": "SUI.V",
@@ -21230,7 +21246,9 @@
     "yf_ticker": "TLA.V",
     "name": "Titan Logix Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Specialty Industrial Machinery",
+    "market_cap_cad": 14469152
   },
   {
     "ticker": "TLC.P.V",
