@@ -2947,7 +2947,9 @@
     "yf_ticker": "BLO.CN",
     "name": "Cannabix Technologies Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Medical Devices",
+    "market_cap_cad": 91938080
   },
   {
     "ticker": "BLST.CN",
@@ -3254,7 +3256,9 @@
     "yf_ticker": "BOS.TO",
     "name": "AirBoss of America Corp.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals",
+    "market_cap_cad": 208639632
   },
   {
     "ticker": "BPAG.V",
@@ -4676,7 +4680,9 @@
     "yf_ticker": "CLC.CN",
     "name": "Christina Lake Cannabis Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "market_cap_cad": 8683275
   },
   {
     "ticker": "CLCH.TO",
@@ -9854,7 +9860,9 @@
     "yf_ticker": "GOH.CN",
     "name": "GoldHaven Resources Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 15095321
   },
   {
     "ticker": "GOK.V",
@@ -9953,7 +9961,9 @@
     "yf_ticker": "GPH.V",
     "name": "Graphite One Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 264706560
   },
   {
     "ticker": "GPK.CN",
@@ -12606,7 +12616,9 @@
     "yf_ticker": "KOVO.V",
     "name": "Kovo+ Holdings Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Health Information Services",
+    "market_cap_cad": 2697093
   },
   {
     "ticker": "KPEN.P.V",
@@ -15532,7 +15544,9 @@
     "yf_ticker": "NIOB.CN",
     "name": "North American Niobium and Critical Minerals Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 20547476
   },
   {
     "ticker": "NIS.P.V",
@@ -16408,7 +16422,9 @@
     "yf_ticker": "OML.V",
     "name": "Omni-Lite Industries Canada Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Metal Fabrication",
+    "market_cap_cad": 24764102
   },
   {
     "ticker": "OMM.V",
@@ -17457,7 +17473,9 @@
     "yf_ticker": "PNG.V",
     "name": "Kraken Robotics Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Scientific & Technical Instruments",
+    "market_cap_cad": 2426682880
   },
   {
     "ticker": "PNP.TO",
@@ -17897,7 +17915,9 @@
     "yf_ticker": "PX.V",
     "name": "Pelangio Exploration Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 41499652
   },
   {
     "ticker": "PXI.CN",
@@ -18668,7 +18688,9 @@
     "yf_ticker": "RME.V",
     "name": "Roland Mineral Enterprises Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 59742808
   },
   {
     "ticker": "RMI.V",
