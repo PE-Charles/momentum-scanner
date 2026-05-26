@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-05-26",
+      "file": "signals_2026-05-26.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 227,
+      "top_conviction": {
+        "ticker": "PLTH.CN",
+        "score": 78,
+        "grade": "A"
+      },
+      "runtime_seconds": 544
+    },
+    {
       "date": "2026-05-25",
       "file": "signals_2026-05-25.json",
       "total_movers": 250,
