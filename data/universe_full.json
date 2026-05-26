@@ -364,7 +364,9 @@
     "yf_ticker": "ADK.V",
     "name": "Diagnos Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Health Information Services",
+    "market_cap_cad": 26240760
   },
   {
     "ticker": "ADN.TO",
@@ -9806,7 +9808,9 @@
     "yf_ticker": "GMR.CN",
     "name": "Gelum Resources Ltd.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 15414456
   },
   {
     "ticker": "GMV.V",
@@ -14290,7 +14294,9 @@
     "yf_ticker": "MINK.V",
     "name": "Mink Ventures Corporation",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Financial Services",
+    "industry": "Shell Companies",
+    "market_cap_cad": 2856571
   },
   {
     "ticker": "MIPC.TO",
@@ -15728,7 +15734,9 @@
     "yf_ticker": "NOW.V",
     "name": "NowVertical Group Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "market_cap_cad": 18584780
   },
   {
     "ticker": "NOWS.TO",
@@ -15972,7 +15980,9 @@
     "yf_ticker": "NTLX.V",
     "name": "NeuroThera Labs Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - General",
+    "market_cap_cad": 15282001
   },
   {
     "ticker": "NTMC.CN",
@@ -16235,7 +16245,9 @@
     "yf_ticker": "OAM.V",
     "name": "OverActive Media Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Communication Services",
+    "industry": "Entertainment",
+    "market_cap_cad": 25355654
   },
   {
     "ticker": "OBE.TO",
@@ -16688,7 +16700,9 @@
     "yf_ticker": "PAI.CN",
     "name": "Predictiv AI Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "market_cap_cad": 16568795
   },
   {
     "ticker": "PALI.V",
@@ -17346,7 +17360,9 @@
     "yf_ticker": "PLTH.CN",
     "name": "Planet 13 Holdings Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "market_cap_cad": 70649888
   },
   {
     "ticker": "PLTR.TO",
@@ -17758,7 +17774,9 @@
     "yf_ticker": "PSYC.CN",
     "name": "Psyched Wellness Ltd.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Consumer Defensive",
+    "industry": "Packaged Foods",
+    "market_cap_cad": 6100737
   },
   {
     "ticker": "PTC.V",
@@ -18776,7 +18794,9 @@
     "yf_ticker": "ROOF.V",
     "name": "Northstar Clean Technologies Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Waste Management",
+    "market_cap_cad": 35595900
   },
   {
     "ticker": "ROOT.TO",
@@ -19244,7 +19264,9 @@
     "yf_ticker": "SASQ.CN",
     "name": "Sasquatch Resources Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 7247268
   },
   {
     "ticker": "SAT.V",
@@ -19518,7 +19540,9 @@
     "yf_ticker": "SECU.V",
     "name": "SSC Security Services Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Security & Protection Services",
+    "market_cap_cad": 78539440
   },
   {
     "ticker": "SEGN.V",
@@ -20735,7 +20759,9 @@
     "yf_ticker": "SX.CN",
     "name": "St-Georges Eco-Mining Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 12498052
   },
   {
     "ticker": "SXGC.TO",
@@ -21799,7 +21825,9 @@
     "yf_ticker": "TVK.TO",
     "name": "TerraVest Industries Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "market_cap_cad": 3418749952
   },
   {
     "ticker": "TWC.TO",
@@ -22473,7 +22501,9 @@
     "yf_ticker": "VREO.CN",
     "name": "Vireo Growth Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "market_cap_cad": 844136576
   },
   {
     "ticker": "VROY.V",
@@ -22927,7 +22957,9 @@
     "yf_ticker": "WISH.V",
     "name": "Wishpond Technologies Ltd.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "market_cap_cad": 9894582
   },
   {
     "ticker": "WITT.P.V",
