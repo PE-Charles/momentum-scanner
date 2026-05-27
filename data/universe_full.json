@@ -1454,7 +1454,9 @@
     "yf_ticker": "ARGO.CN",
     "name": "Argo Graphene Solutions Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Building Materials",
+    "market_cap_cad": 18594688
   },
   {
     "ticker": "ARIC.V",
@@ -2407,7 +2409,9 @@
     "yf_ticker": "BBM.CN",
     "name": "Blueberries Medical Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "market_cap_cad": 9901801
   },
   {
     "ticker": "BBUC.TO",
@@ -9045,7 +9049,9 @@
     "yf_ticker": "FWTC.V",
     "name": "Forward Water Technologies Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Utilities",
+    "industry": "Utilities - Regulated Water",
+    "market_cap_cad": 2458729
   },
   {
     "ticker": "FWZ.V",
@@ -13165,7 +13171,9 @@
     "yf_ticker": "LINE.CN",
     "name": "Linear Minerals Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 3361411
   },
   {
     "ticker": "LIO.V",
@@ -18423,7 +18431,9 @@
     "yf_ticker": "RECE.CN",
     "name": "Resource Centrix Holdings, Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 259045904
   },
   {
     "ticker": "RECO.V",
@@ -19001,7 +19011,9 @@
     "yf_ticker": "RUM.V",
     "name": "Rocky Mountain Liquor Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Consumer Cyclical",
+    "industry": "Specialty Retail",
+    "market_cap_cad": 4065361
   },
   {
     "ticker": "RUP.TO",
@@ -22805,7 +22817,9 @@
     "yf_ticker": "WEF.TO",
     "name": "Western Forest Products Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Lumber & Wood Production",
+    "market_cap_cad": 169036512
   },
   {
     "ticker": "WELL.TO",
@@ -23627,7 +23641,9 @@
     "yf_ticker": "ZOMD.V",
     "name": "Zoomd Technologies Ltd.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information",
+    "market_cap_cad": 56444836
   },
   {
     "ticker": "ZON.V",

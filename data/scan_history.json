@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-05-27",
+      "file": "signals_2026-05-27.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 220,
+      "top_conviction": {
+        "ticker": "ARGO.CN",
+        "score": 78,
+        "grade": "A"
+      },
+      "runtime_seconds": 530
+    },
+    {
       "date": "2026-05-26",
       "file": "signals_2026-05-26.json",
       "total_movers": 250,
