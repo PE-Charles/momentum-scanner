@@ -12970,7 +12970,9 @@
     "yf_ticker": "LEEF.CN",
     "name": "Leef Brands Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "market_cap_cad": 61678840
   },
   {
     "ticker": "LEGY.V",
@@ -16340,7 +16342,9 @@
     "yf_ticker": "OGD.TO",
     "name": "Orbit Garant Drilling Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 58783248
   },
   {
     "ticker": "OGI.TO",
@@ -18472,7 +18476,9 @@
     "yf_ticker": "REKO.V",
     "name": "Reko International Group Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Specialty Industrial Machinery",
+    "market_cap_cad": 24079206
   },
   {
     "ticker": "RES.V",
@@ -20750,7 +20756,9 @@
     "yf_ticker": "SWAN.V",
     "name": "Black Swan Graphene Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Chemicals",
+    "market_cap_cad": 70911248
   },
   {
     "ticker": "SWLF.V",
@@ -21626,7 +21634,9 @@
     "yf_ticker": "TRUL.CN",
     "name": "Trulieve Cannabis Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "market_cap_cad": 2573068544
   },
   {
     "ticker": "TRV.P.V",
