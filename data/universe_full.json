@@ -11647,7 +11647,9 @@
     "yf_ticker": "IMPT.V",
     "name": "Impact Development Group Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Real Estate",
+    "industry": "Real Estate - Development",
+    "market_cap_cad": 1543605
   },
   {
     "ticker": "IMR.V",
@@ -18648,7 +18650,9 @@
     "yf_ticker": "RIWI.V",
     "name": "RIWI Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "market_cap_cad": 7902094
   },
   {
     "ticker": "RJX.A.V",
@@ -21189,7 +21193,9 @@
     "yf_ticker": "THNC.TO",
     "name": "Thinkific Labs Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "market_cap_cad": 91675848
   },
   {
     "ticker": "THRM.V",
@@ -22507,7 +22513,9 @@
     "yf_ticker": "VRB.V",
     "name": "Vanadiumcorp Resource Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 2480437
   },
   {
     "ticker": "VRDN.CN",
