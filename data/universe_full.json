@@ -1411,7 +1411,9 @@
     "yf_ticker": "ARCH.V",
     "name": "Arch Biopartners Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "market_cap_cad": 35325308
   },
   {
     "ticker": "ARE.TO",
@@ -2137,7 +2139,9 @@
     "yf_ticker": "AXL.V",
     "name": "Arrow Exploration Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "market_cap_cad": 157225392
   },
   {
     "ticker": "AXO.V",
@@ -19219,7 +19223,9 @@
     "yf_ticker": "SAGE.V",
     "name": "Sage Potash Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 23103718
   },
   {
     "ticker": "SALT.V",
@@ -20704,7 +20710,9 @@
     "yf_ticker": "SVA.TO",
     "name": "Sernova Biotherapeutics Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "market_cap_cad": 53897584
   },
   {
     "ticker": "SVB.TO",
@@ -21589,7 +21597,9 @@
     "yf_ticker": "TRI.TO",
     "name": "Thomson Reuters Corporation",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Specialty Business Services",
+    "market_cap_cad": 56688934912
   },
   {
     "ticker": "TRIP.CN",
@@ -22339,7 +22349,9 @@
     "yf_ticker": "VIS.V",
     "name": "Visionstate Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Information Technology Services",
+    "market_cap_cad": 3874895
   },
   {
     "ticker": "VISA.TO",
@@ -22634,7 +22646,9 @@
     "yf_ticker": "VVC.V",
     "name": "VVC Exploration Corporation",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "market_cap_cad": 8590227
   },
   {
     "ticker": "VVTM.V",

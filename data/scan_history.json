@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-06-01",
+      "file": "signals_2026-06-01.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 230,
+      "top_conviction": {
+        "ticker": "IFA.TO",
+        "score": 83,
+        "grade": "A"
+      },
+      "runtime_seconds": 493
+    },
+    {
       "date": "2026-05-29",
       "file": "signals_2026-05-29.json",
       "total_movers": 250,
