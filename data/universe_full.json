@@ -240,7 +240,9 @@
     "yf_ticker": "ACM.CN",
     "name": "Allied Critical Metals Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 402719648
   },
   {
     "ticker": "ACO.X.TO",
@@ -3713,7 +3715,9 @@
     "yf_ticker": "CAD.V",
     "name": "Colonial Coal International Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Coking Coal",
+    "market_cap_cad": 520364384
   },
   {
     "ticker": "CAE.TO",
@@ -11890,7 +11894,9 @@
     "yf_ticker": "ISGI.V",
     "name": "Insuraguest Technologies Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "market_cap_cad": 2558007
   },
   {
     "ticker": "ISIF.TO",
@@ -19747,7 +19753,9 @@
     "yf_ticker": "SHL.V",
     "name": "Homeland Nickel Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 90923968
   },
   {
     "ticker": "SHLE.TO",
@@ -22479,7 +22487,9 @@
     "yf_ticker": "VNP.TO",
     "name": "5N Plus Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals",
+    "market_cap_cad": 4036297216
   },
   {
     "ticker": "VO.V",
@@ -23400,7 +23410,9 @@
     "yf_ticker": "XXIX.V",
     "name": "XXIX Metal Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Copper",
+    "market_cap_cad": 55477440
   },
   {
     "ticker": "Y.TO",
