@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-06-02",
+      "file": "signals_2026-06-02.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 228,
+      "top_conviction": {
+        "ticker": "EM.V",
+        "score": 80,
+        "grade": "A"
+      },
+      "runtime_seconds": 553
+    },
+    {
       "date": "2026-06-01",
       "file": "signals_2026-06-01.json",
       "total_movers": 250,
