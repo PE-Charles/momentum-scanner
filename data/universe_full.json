@@ -670,7 +670,9 @@
     "yf_ticker": "AGTF.TO",
     "name": "AGT Food and Ingredients Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Consumer Defensive",
+    "industry": "Farm Products",
+    "market_cap_cad": 1224039168
   },
   {
     "ticker": "AGX.V",
@@ -10849,7 +10851,9 @@
     "yf_ticker": "HEVI.V",
     "name": "Helium Evolution Incorporated",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "market_cap_cad": 38308240
   },
   {
     "ticker": "HFC.V",
@@ -15946,7 +15950,9 @@
     "yf_ticker": "NTE.V",
     "name": "Network Media Group Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Communication Services",
+    "industry": "Entertainment",
+    "market_cap_cad": 948735
   },
   {
     "ticker": "NTGA.TO",
@@ -22206,7 +22212,9 @@
     "yf_ticker": "VBNK.TO",
     "name": "VersaBank",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Financial Services",
+    "industry": "Banks - Regional",
+    "market_cap_cad": 886853760
   },
   {
     "ticker": "VCC.P.V",
@@ -23113,7 +23121,9 @@
     "yf_ticker": "WP.V",
     "name": "Western Pacific Trust Company",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "market_cap_cad": 3549630
   },
   {
     "ticker": "WPG.V",
