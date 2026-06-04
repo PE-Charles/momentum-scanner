@@ -5009,7 +5009,9 @@
     "yf_ticker": "CNT.TO",
     "name": "Century Global Commodities Corporation",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Consumer Defensive",
+    "industry": "Food Distribution",
+    "market_cap_cad": 4137192
   },
   {
     "ticker": "CNVI.V",
@@ -17037,7 +17039,9 @@
     "yf_ticker": "PEX.V",
     "name": "Pacific Ridge Exploration Ltd.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "market_cap_cad": 13218082
   },
   {
     "ticker": "PEY.TO",
@@ -18283,7 +18287,9 @@
     "yf_ticker": "RAIL.CN",
     "name": "Railtown AI Technologies Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "market_cap_cad": 87724600
   },
   {
     "ticker": "RAK.V",
@@ -20350,7 +20356,9 @@
     "yf_ticker": "SPX.V",
     "name": "Stellar AfricaGold Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 7146788
   },
   {
     "ticker": "SPZ.V",
@@ -21694,7 +21702,9 @@
     "yf_ticker": "TSAT.TO",
     "name": "Telesat Corporation",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Communication Equipment",
+    "market_cap_cad": 3911448320
   },
   {
     "ticker": "TSD.V",
@@ -21743,7 +21753,9 @@
     "yf_ticker": "TSND.TO",
     "name": "TerrAscend Corp.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "market_cap_cad": 373053312
   },
   {
     "ticker": "TSU.TO",
