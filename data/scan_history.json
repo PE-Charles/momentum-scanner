@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-06-04",
+      "file": "signals_2026-06-04.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 227,
+      "top_conviction": {
+        "ticker": "PLAS.CN",
+        "score": 86,
+        "grade": "A"
+      },
+      "runtime_seconds": 496
+    },
+    {
       "date": "2026-06-03",
       "file": "signals_2026-06-03.json",
       "total_movers": 250,
