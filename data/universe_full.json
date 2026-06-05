@@ -19075,7 +19075,9 @@
     "yf_ticker": "RUU.CN",
     "name": "Refined Energy Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 13236199
   },
   {
     "ticker": "RV.V",
@@ -20762,7 +20764,9 @@
     "yf_ticker": "SVI.TO",
     "name": "StorageVault Canada Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "market_cap_cad": 1638113792
   },
   {
     "ticker": "SVM.TO",
@@ -22472,7 +22476,9 @@
     "yf_ticker": "VM.V",
     "name": "Voyageur Pharmaceuticals Ltd.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "market_cap_cad": 17050208
   },
   {
     "ticker": "VMET.TO",
@@ -23418,7 +23424,9 @@
     "yf_ticker": "XTRA.TO",
     "name": "Xtract One Technologies Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "market_cap_cad": 129951488
   },
   {
     "ticker": "XX.V",
