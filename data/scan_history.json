@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-06-08",
+      "file": "signals_2026-06-08.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 231,
+      "top_conviction": {
+        "ticker": "OPTI.CN",
+        "score": 82,
+        "grade": "A"
+      },
+      "runtime_seconds": 498
+    },
+    {
       "date": "2026-06-05",
       "file": "signals_2026-06-05.json",
       "total_movers": 250,

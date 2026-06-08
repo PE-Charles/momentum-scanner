@@ -1444,7 +1444,9 @@
     "yf_ticker": "ARGH.V",
     "name": "Argo Corporation",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "market_cap_cad": 82509576
   },
   {
     "ticker": "ARGL.CN",
@@ -7827,7 +7829,9 @@
     "yf_ticker": "EVNI.V",
     "name": "EV Nickel Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 23770530
   },
   {
     "ticker": "EVOC.P.V",
@@ -10401,7 +10405,9 @@
     "yf_ticker": "GTII.CN",
     "name": "Green Thumb Industries Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "market_cap_cad": 2684813056
   },
   {
     "ticker": "GTRI.TO",
@@ -16148,7 +16154,9 @@
     "yf_ticker": "NVRO.V",
     "name": "EnviroGold Global Limited",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "market_cap_cad": 94950784
   },
   {
     "ticker": "NVRS.CN",
@@ -19535,7 +19543,9 @@
     "yf_ticker": "SDE.TO",
     "name": "Spartan Delta Corp.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "market_cap_cad": 2642256128
   },
   {
     "ticker": "SDI.V",
