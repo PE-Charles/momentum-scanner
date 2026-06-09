@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-06-09",
+      "file": "signals_2026-06-09.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 227,
+      "top_conviction": {
+        "ticker": "VVTM.V",
+        "score": 84,
+        "grade": "A"
+      },
+      "runtime_seconds": 499
+    },
+    {
       "date": "2026-06-08",
       "file": "signals_2026-06-08.json",
       "total_movers": 250,
