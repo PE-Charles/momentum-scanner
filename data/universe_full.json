@@ -109,7 +109,9 @@
     "yf_ticker": "ABI.V",
     "name": "Abcourt Mines Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 95467896
   },
   {
     "ticker": "ABM.V",
@@ -6516,7 +6518,9 @@
     "yf_ticker": "DNO.V",
     "name": "Dinero Ventures Ltd.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 7759243
   },
   {
     "ticker": "DOL.TO",
@@ -15443,7 +15447,9 @@
     "yf_ticker": "NEXX.CN",
     "name": "Nexcel Metals Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 29303302
   },
   {
     "ticker": "NFD.A.V",
@@ -20418,7 +20424,9 @@
     "yf_ticker": "SRAN.CN",
     "name": "Sranan Gold Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 12196530
   },
   {
     "ticker": "SRC.V",
@@ -21596,7 +21604,9 @@
     "yf_ticker": "TRAC.CN",
     "name": "Traction Uranium Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 17758590
   },
   {
     "ticker": "TRAN.V",
