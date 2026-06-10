@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-06-10",
+      "file": "signals_2026-06-10.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 232,
+      "top_conviction": {
+        "ticker": "QCA.CN",
+        "score": 85,
+        "grade": "A"
+      },
+      "runtime_seconds": 498
+    },
+    {
       "date": "2026-06-09",
       "file": "signals_2026-06-09.json",
       "total_movers": 250,

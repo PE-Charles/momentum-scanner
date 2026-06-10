@@ -3757,7 +3757,9 @@
     "yf_ticker": "CAI.V",
     "name": "Capitan Investment Ltd.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "market_cap_cad": 7242101
   },
   {
     "ticker": "CALL.NE",
@@ -12445,7 +12447,9 @@
     "yf_ticker": "KEL.TO",
     "name": "Kelt Exploration Ltd.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "market_cap_cad": 2038155776
   },
   {
     "ticker": "KEY.TO",
@@ -20187,7 +20191,9 @@
     "yf_ticker": "SOBO.TO",
     "name": "South Bow Corporation",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Energy",
+    "industry": "Oil & Gas Midstream",
+    "market_cap_cad": 10971550720
   },
   {
     "ticker": "SOI.V",
@@ -20526,7 +20532,9 @@
     "yf_ticker": "STC.TO",
     "name": "Sangoma Technologies Corporation",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "market_cap_cad": 166061152
   },
   {
     "ticker": "STCK.TO",
@@ -22417,7 +22425,9 @@
     "yf_ticker": "VITA.V",
     "name": "Vitalist Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Information Technology Services",
+    "market_cap_cad": 45331204
   },
   {
     "ticker": "VIVI.CN",
