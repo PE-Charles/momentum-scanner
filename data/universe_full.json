@@ -9920,7 +9920,9 @@
     "yf_ticker": "GOOD.V",
     "name": "Good Gamer Entertainment Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Communication Services",
+    "industry": "Electronic Gaming & Multimedia",
+    "market_cap_cad": 404390
   },
   {
     "ticker": "GOOG.TO",
@@ -18342,7 +18344,9 @@
     "yf_ticker": "RAY.TO",
     "name": "Stingray Group Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Communication Services",
+    "industry": "Broadcasting",
+    "market_cap_cad": 1139548032
   },
   {
     "ticker": "RBA.TO",
@@ -22492,7 +22496,9 @@
     "yf_ticker": "VLTA.CN",
     "name": "Volta Metals Ltd.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 24960562
   },
   {
     "ticker": "VLX.V",
@@ -22931,7 +22937,9 @@
     "yf_ticker": "WEX.V",
     "name": "Western Exploration Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "market_cap_cad": 39329180
   },
   {
     "ticker": "WFC.TO",
@@ -23280,7 +23288,9 @@
     "yf_ticker": "WUC.CN",
     "name": "Western Uranium & Vanadium Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Energy",
+    "industry": "Uranium",
+    "market_cap_cad": 42393792
   },
   {
     "ticker": "WVM.V",
