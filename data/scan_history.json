@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-06-11",
+      "file": "signals_2026-06-11.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 234,
+      "top_conviction": {
+        "ticker": "EOX.V",
+        "score": 79,
+        "grade": "A"
+      },
+      "runtime_seconds": 523
+    },
+    {
       "date": "2026-06-10",
       "file": "signals_2026-06-10.json",
       "total_movers": 250,
