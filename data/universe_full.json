@@ -16368,7 +16368,9 @@
     "yf_ticker": "ODV.V",
     "name": "Osisko Development Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 1209743872
   },
   {
     "ticker": "OGC.TO",
@@ -18026,7 +18028,9 @@
     "yf_ticker": "PYR.TO",
     "name": "PyroGenesis Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Specialty Industrial Machinery",
+    "market_cap_cad": 58620488
   },
   {
     "ticker": "PZA.TO",
@@ -19960,7 +19964,9 @@
     "yf_ticker": "SL.CN",
     "name": "Super Lithium Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 6748750
   },
   {
     "ticker": "SLA.CN",
@@ -20039,7 +20045,9 @@
     "yf_ticker": "SLV.CN",
     "name": "Silver Dollar Resources Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 22675592
   },
   {
     "ticker": "SLVR.V",
@@ -21377,7 +21385,9 @@
     "yf_ticker": "TKO.TO",
     "name": "Taseko Mines Limited",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Copper",
+    "market_cap_cad": 3828327680
   },
   {
     "ticker": "TLA.V",
@@ -21511,7 +21521,9 @@
     "yf_ticker": "TOC.CN",
     "name": "Tocvan Ventures Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 42516912
   },
   {
     "ticker": "TOI.V",
