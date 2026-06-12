@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-06-12",
+      "file": "signals_2026-06-12.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 219,
+      "top_conviction": {
+        "ticker": "BTU.V",
+        "score": 82,
+        "grade": "A"
+      },
+      "runtime_seconds": 484
+    },
+    {
       "date": "2026-06-11",
       "file": "signals_2026-06-11.json",
       "total_movers": 250,
