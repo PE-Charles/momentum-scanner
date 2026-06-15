@@ -13836,7 +13836,9 @@
     "yf_ticker": "MBIO.CN",
     "name": "MindBio Therapeutics Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "market_cap_cad": 3350209
   },
   {
     "ticker": "MBO.V",
@@ -18978,7 +18980,9 @@
     "yf_ticker": "RSH.CN",
     "name": "Rush Rare Metals Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 10862465
   },
   {
     "ticker": "RSI.TO",
