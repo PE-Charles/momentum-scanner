@@ -1292,7 +1292,9 @@
     "yf_ticker": "API.CN",
     "name": "Appia Rare Earths & Uranium Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Energy",
+    "industry": "Uranium",
+    "market_cap_cad": 36050896
   },
   {
     "ticker": "APL.V",
@@ -22329,7 +22331,9 @@
     "yf_ticker": "VCV.V",
     "name": "Vatic Ventures Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 2481083
   },
   {
     "ticker": "VEIN.V",
