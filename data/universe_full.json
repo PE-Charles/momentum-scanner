@@ -1412,7 +1412,9 @@
     "yf_ticker": "ARC.V",
     "name": "ARCpoint Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research",
+    "market_cap_cad": 1283588
   },
   {
     "ticker": "ARCH.V",
@@ -6414,7 +6416,9 @@
     "yf_ticker": "DLC.V",
     "name": "DLC Holdings Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "market_cap_cad": 2177503
   },
   {
     "ticker": "DLCG.TO",
@@ -7497,7 +7501,9 @@
     "yf_ticker": "EONX.CN",
     "name": "EonX Technologies Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "market_cap_cad": 26092372
   },
   {
     "ticker": "EOX.V",
@@ -18822,7 +18828,9 @@
     "yf_ticker": "ROBO.CN",
     "name": "Humanoid Global Holdings Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "market_cap_cad": 11916602
   },
   {
     "ticker": "ROCK.V",
