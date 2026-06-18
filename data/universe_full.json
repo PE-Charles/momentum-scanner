@@ -11480,7 +11480,9 @@
     "yf_ticker": "IEI.V",
     "name": "Imperial Equities Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "market_cap_cad": 40167780
   },
   {
     "ticker": "IFA.TO",
@@ -17916,7 +17918,9 @@
     "yf_ticker": "PUMA.V",
     "name": "Puma Exploration Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 32915030
   },
   {
     "ticker": "PUR.V",
@@ -20145,7 +20149,9 @@
     "yf_ticker": "SMRV.V",
     "name": "Smooth Rock Ventures Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 6176862
   },
   {
     "ticker": "SMY.V",
@@ -20574,7 +20580,9 @@
     "yf_ticker": "STCU.CN",
     "name": "Star Copper Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 72522488
   },
   {
     "ticker": "STE.V",
@@ -21355,7 +21363,9 @@
     "yf_ticker": "TIH.TO",
     "name": "Toromont Industries Ltd.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Industrial Distribution",
+    "market_cap_cad": 19646312448
   },
   {
     "ticker": "TIN.V",
@@ -22080,7 +22090,9 @@
     "yf_ticker": "UIG.V",
     "name": "Urban Infrastructure Group Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Engineering & Construction",
+    "market_cap_cad": 2623072
   },
   {
     "ticker": "ULTH.CN",
@@ -23244,7 +23256,9 @@
     "yf_ticker": "WPRT.TO",
     "name": "Westport Fuel Systems Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Parts",
+    "market_cap_cad": 56014264
   },
   {
     "ticker": "WRG.TO",
