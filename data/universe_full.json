@@ -16412,7 +16412,9 @@
     "yf_ticker": "OGN.V",
     "name": "Orogen Royalties Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 222608768
   },
   {
     "ticker": "OGO.V",
