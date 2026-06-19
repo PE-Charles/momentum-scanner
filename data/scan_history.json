@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-06-19",
+      "file": "signals_2026-06-19.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 225,
+      "top_conviction": {
+        "ticker": "MPH.V",
+        "score": 85,
+        "grade": "A"
+      },
+      "runtime_seconds": 487
+    },
+    {
       "date": "2026-06-18",
       "file": "signals_2026-06-18.json",
       "total_movers": 250,
