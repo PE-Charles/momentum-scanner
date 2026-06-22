@@ -3754,7 +3754,9 @@
     "yf_ticker": "CAG.V",
     "name": "Composite Alliance Group Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Specialty Industrial Machinery",
+    "market_cap_cad": 2204672
   },
   {
     "ticker": "CAI.V",
@@ -8360,7 +8362,9 @@
     "yf_ticker": "FISH.V",
     "name": "Sailfish Royalty Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 369083776
   },
   {
     "ticker": "FISV.TO",
@@ -16240,7 +16244,9 @@
     "yf_ticker": "NWX.V",
     "name": "Newport Exploration Ltd.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 12141686
   },
   {
     "ticker": "NXE.TO",
@@ -17391,7 +17397,9 @@
     "yf_ticker": "PKT.V",
     "name": "Parkit Enterprise Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "market_cap_cad": 138411520
   },
   {
     "ticker": "PLAN.V",
@@ -18889,7 +18897,9 @@
     "yf_ticker": "ROOT.TO",
     "name": "Roots Corporation",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Consumer Cyclical",
+    "industry": "Apparel Retail",
+    "market_cap_cad": 167834928
   },
   {
     "ticker": "ROS.V",

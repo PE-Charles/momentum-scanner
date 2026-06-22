@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-06-22",
+      "file": "signals_2026-06-22.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 141,
+      "top_conviction": {
+        "ticker": "AXE.V",
+        "score": 77,
+        "grade": "A"
+      },
+      "runtime_seconds": 3866
+    },
+    {
       "date": "2026-06-19",
       "file": "signals_2026-06-19.json",
       "total_movers": 250,
