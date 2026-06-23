@@ -6641,7 +6641,9 @@
     "yf_ticker": "DRT.TO",
     "name": "DIRTT Environmental Solutions Ltd.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Engineering & Construction",
+    "market_cap_cad": 147197520
   },
   {
     "ticker": "DRUG.CN",
@@ -8013,7 +8015,9 @@
     "yf_ticker": "FBF.V",
     "name": "Fab-Form Industries Ltd.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Building Materials",
+    "market_cap_cad": 9174507
   },
   {
     "ticker": "FBGO.TO",
@@ -16276,7 +16280,9 @@
     "yf_ticker": "NXLV.V",
     "name": "NexLiving Communities Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "market_cap_cad": 64587472
   },
   {
     "ticker": "NXS.V",
@@ -16672,7 +16678,9 @@
     "yf_ticker": "OTEX.TO",
     "name": "Open Text Corporation",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "market_cap_cad": 7296857088
   },
   {
     "ticker": "OTMC.V",
@@ -21055,7 +21063,9 @@
     "yf_ticker": "TC.TO",
     "name": "Tucows Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "market_cap_cad": 217408880
   },
   {
     "ticker": "TCEC.CN",
@@ -23381,7 +23391,9 @@
     "yf_ticker": "XAU.TO",
     "name": "GoldMoney Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Financial Services",
+    "industry": "Capital Markets",
+    "market_cap_cad": 210007200
   },
   {
     "ticker": "XBOT.V",
