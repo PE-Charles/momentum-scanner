@@ -18496,7 +18496,9 @@
     "yf_ticker": "REAL.TO",
     "name": "Real Matters Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "market_cap_cad": 403378400
   },
   {
     "ticker": "REBL.P.V",
@@ -19856,7 +19858,9 @@
     "yf_ticker": "SHOP.TO",
     "name": "Shopify Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "market_cap_cad": 210985664512
   },
   {
     "ticker": "SHRC.CN",
