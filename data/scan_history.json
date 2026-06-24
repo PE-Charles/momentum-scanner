@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-06-24",
+      "file": "signals_2026-06-24.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 222,
+      "top_conviction": {
+        "ticker": "JEV.V",
+        "score": 80,
+        "grade": "A"
+      },
+      "runtime_seconds": 494
+    },
+    {
       "date": "2026-06-23",
       "file": "signals_2026-06-23.json",
       "total_movers": 250,
