@@ -16117,7 +16117,9 @@
     "yf_ticker": "NUR.CN",
     "name": "Nuran Wireless Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Communication Equipment",
+    "market_cap_cad": 104023488
   },
   {
     "ticker": "NURS.V",
@@ -18585,7 +18587,9 @@
     "yf_ticker": "REVV.CN",
     "name": "ReVolve Renewable Power Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Utilities",
+    "industry": "Utilities - Renewable",
+    "market_cap_cad": 15509656
   },
   {
     "ticker": "REVX.V",
