@@ -11847,7 +11847,9 @@
     "yf_ticker": "IPD.V",
     "name": "International Parkside Products Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals",
+    "market_cap_cad": 742862
   },
   {
     "ticker": "IPO.TO",
@@ -22591,7 +22593,9 @@
     "yf_ticker": "VMET.TO",
     "name": "Versamet Royalties Corporation",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "market_cap_cad": 1884019072
   },
   {
     "ticker": "VML.V",
