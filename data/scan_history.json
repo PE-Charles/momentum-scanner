@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-06-30",
+      "file": "signals_2026-06-30.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 234,
+      "top_conviction": {
+        "ticker": "DRX.TO",
+        "score": 77,
+        "grade": "A"
+      },
+      "runtime_seconds": 495
+    },
+    {
       "date": "2026-06-29",
       "file": "signals_2026-06-29.json",
       "total_movers": 250,
