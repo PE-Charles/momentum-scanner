@@ -11873,7 +11873,9 @@
     "yf_ticker": "IQ.V",
     "name": "AirIQ Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "market_cap_cad": 15654649
   },
   {
     "ticker": "IRI.V",
