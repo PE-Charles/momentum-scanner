@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-07-01",
+      "file": "signals_2026-07-01.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 237,
+      "top_conviction": {
+        "ticker": "ET.TO",
+        "score": 77,
+        "grade": "A"
+      },
+      "runtime_seconds": 499
+    },
+    {
       "date": "2026-06-30",
       "file": "signals_2026-06-30.json",
       "total_movers": 250,
