@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-07-02",
+      "file": "signals_2026-07-02.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 237,
+      "top_conviction": {
+        "ticker": "URAI.CN",
+        "score": 84,
+        "grade": "A"
+      },
+      "runtime_seconds": 488
+    },
+    {
       "date": "2026-07-01",
       "file": "signals_2026-07-01.json",
       "total_movers": 250,
