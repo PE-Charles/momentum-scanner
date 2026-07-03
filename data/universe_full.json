@@ -9449,7 +9449,9 @@
     "yf_ticker": "GFL.TO",
     "name": "GFL Environmental Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Waste Management",
+    "market_cap_cad": 20691091456
   },
   {
     "ticker": "GFOR.P.V",
