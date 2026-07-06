@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-07-06",
+      "file": "signals_2026-07-06.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 234,
+      "top_conviction": {
+        "ticker": "GDAI.NE",
+        "score": 78,
+        "grade": "A"
+      },
+      "runtime_seconds": 523
+    },
+    {
       "date": "2026-07-03",
       "file": "signals_2026-07-03.json",
       "total_movers": 250,
