@@ -6764,7 +6764,9 @@
     "yf_ticker": "DWS.V",
     "name": "Diamond Estates Wines & Spirits Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Consumer Defensive",
+    "industry": "Beverages - Wineries & Distilleries",
+    "market_cap_cad": 10172750
   },
   {
     "ticker": "DXBG.TO",
@@ -20644,7 +20646,9 @@
     "yf_ticker": "STGX.CN",
     "name": "StrategX Elements Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 10473222
   },
   {
     "ticker": "STK.CN",
@@ -21040,7 +21044,9 @@
     "yf_ticker": "TBIX.V",
     "name": "TrustBIX Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "market_cap_cad": 1392093
   },
   {
     "ticker": "TBK.V",
