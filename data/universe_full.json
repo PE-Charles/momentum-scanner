@@ -1855,7 +1855,9 @@
     "yf_ticker": "AUEX.CN",
     "name": "Advanced Gold Exploration Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 3173041
   },
   {
     "ticker": "AUGC.V",
@@ -2704,7 +2706,9 @@
     "yf_ticker": "BGLD.CN",
     "name": "Boreal Gold Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 5274099
   },
   {
     "ticker": "BHC.TO",
@@ -17822,7 +17826,9 @@
     "yf_ticker": "PSD.TO",
     "name": "Pulse Seismic Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "market_cap_cad": 173951952
   },
   {
     "ticker": "PSE.CN",
@@ -18654,7 +18660,9 @@
     "yf_ticker": "RGI.V",
     "name": "Reco International Group Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Engineering & Construction",
+    "market_cap_cad": 744534
   },
   {
     "ticker": "RGR.CN",
@@ -19201,7 +19209,9 @@
     "yf_ticker": "RVX.TO",
     "name": "Resverlogix Corp.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "market_cap_cad": 31697758
   },
   {
     "ticker": "RW.V",
@@ -20542,7 +20552,9 @@
     "yf_ticker": "SRS.CN",
     "name": "Sorrento Resources Ltd.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 8867151
   },
   {
     "ticker": "SSA.V",
