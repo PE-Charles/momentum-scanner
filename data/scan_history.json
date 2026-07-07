@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-07-07",
+      "file": "signals_2026-07-07.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 233,
+      "top_conviction": {
+        "ticker": "NTMC.CN",
+        "score": 77,
+        "grade": "A"
+      },
+      "runtime_seconds": 483
+    },
+    {
       "date": "2026-07-06",
       "file": "signals_2026-07-06.json",
       "total_movers": 250,
