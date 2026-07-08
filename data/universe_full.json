@@ -11273,7 +11273,9 @@
     "yf_ticker": "HWX.TO",
     "name": "Headwater Exploration Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "market_cap_cad": 2938749184
   },
   {
     "ticker": "HWY.V",
@@ -15118,7 +15120,9 @@
     "yf_ticker": "MX.TO",
     "name": "Methanex Corporation",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Chemicals",
+    "market_cap_cad": 5358248960
   },
   {
     "ticker": "MXG.TO",
@@ -21026,7 +21030,9 @@
     "yf_ticker": "TAL.TO",
     "name": "PetroTal Corp.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "market_cap_cad": 446359232
   },
   {
     "ticker": "TAO.V",
@@ -22280,7 +22286,9 @@
     "yf_ticker": "USS.V",
     "name": "Uniserve Communications Corporation",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Communication Services",
+    "industry": "Telecom Services",
+    "market_cap_cad": 26356452
   },
   {
     "ticker": "UTES.TO",
