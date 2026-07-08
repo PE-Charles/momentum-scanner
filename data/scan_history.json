@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-07-08",
+      "file": "signals_2026-07-08.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 236,
+      "top_conviction": {
+        "ticker": "XX.V",
+        "score": 88,
+        "grade": "A"
+      },
+      "runtime_seconds": 485
+    },
+    {
       "date": "2026-07-07",
       "file": "signals_2026-07-07.json",
       "total_movers": 250,
