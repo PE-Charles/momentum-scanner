@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-07-09",
+      "file": "signals_2026-07-09.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 232,
+      "top_conviction": {
+        "ticker": "ROOF.V",
+        "score": 81,
+        "grade": "A"
+      },
+      "runtime_seconds": 538
+    },
+    {
       "date": "2026-07-08",
       "file": "signals_2026-07-08.json",
       "total_movers": 250,
