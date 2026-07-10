@@ -16689,7 +16689,9 @@
     "yf_ticker": "OTC.V",
     "name": "Ocumetics Technology Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Medical Instruments & Supplies",
+    "market_cap_cad": 62417808
   },
   {
     "ticker": "OTEX.TO",
@@ -23635,7 +23637,9 @@
     "yf_ticker": "YEG.V",
     "name": "Yorkton Equity Group Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Real Estate",
+    "industry": "Real Estate - Diversified",
+    "market_cap_cad": 15204790
   },
   {
     "ticker": "YES.V",
