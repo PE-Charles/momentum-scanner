@@ -8129,7 +8129,9 @@
     "yf_ticker": "FDI.V",
     "name": "Findev Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Financial Services",
+    "industry": "Mortgage Finance",
+    "market_cap_cad": 10169841
   },
   {
     "ticker": "FDR.V",
@@ -10473,7 +10475,9 @@
     "yf_ticker": "GUF.V",
     "name": "Gulf & Pacific Equities Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "market_cap_cad": 11775876
   },
   {
     "ticker": "GUG.V",
@@ -17418,7 +17422,9 @@
     "yf_ticker": "PKK.CN",
     "name": "Tenet Fintech Group Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "market_cap_cad": 30888382
   },
   {
     "ticker": "PKT.V",
@@ -22463,7 +22469,9 @@
     "yf_ticker": "VEXT.CN",
     "name": "Vext Science, Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "market_cap_cad": 61920968
   },
   {
     "ticker": "VG.V",
