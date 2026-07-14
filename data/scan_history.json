@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-07-14",
+      "file": "signals_2026-07-14.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 234,
+      "top_conviction": {
+        "ticker": "FUTR.CN",
+        "score": 72,
+        "grade": "B"
+      },
+      "runtime_seconds": 547
+    },
+    {
       "date": "2026-07-13",
       "file": "signals_2026-07-13.json",
       "total_movers": 250,
