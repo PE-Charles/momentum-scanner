@@ -1301,7 +1301,9 @@
     "yf_ticker": "APL.V",
     "name": "Appulse Corporation",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Pollution & Treatment Controls",
+    "market_cap_cad": 3840799
   },
   {
     "ticker": "APLI.TO",
@@ -22084,7 +22086,9 @@
     "yf_ticker": "TXP.TO",
     "name": "Touchstone Exploration Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "market_cap_cad": 50947912
   },
   {
     "ticker": "UBER.TO",
