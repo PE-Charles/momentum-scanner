@@ -17108,7 +17108,9 @@
     "yf_ticker": "PET.TO",
     "name": "Pet Valu Holdings Ltd.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Consumer Cyclical",
+    "industry": "Specialty Retail",
+    "market_cap_cad": 1317966336
   },
   {
     "ticker": "PEX.V",
@@ -22819,7 +22821,9 @@
     "yf_ticker": "VTX.V",
     "name": "Vertex Resource Group Ltd.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Waste Management",
+    "market_cap_cad": 20724974
   },
   {
     "ticker": "VUL.V",
