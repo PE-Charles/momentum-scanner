@@ -604,7 +604,9 @@
     "yf_ticker": "AGET.V",
     "name": "AGEDB Technology Ltd.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "market_cap_cad": 1751496
   },
   {
     "ticker": "AGF.B.TO",
@@ -2558,7 +2560,9 @@
     "yf_ticker": "BECN.V",
     "name": "Beacn Wizardry & Magic Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Consumer Electronics",
+    "market_cap_cad": 1882731
   },
   {
     "ticker": "BEEP.V",
@@ -8708,7 +8712,9 @@
     "yf_ticker": "FORA.TO",
     "name": "VerticalScope Holdings Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information",
+    "market_cap_cad": 58486504
   },
   {
     "ticker": "FORT.V",
@@ -18281,7 +18287,9 @@
     "yf_ticker": "QSR.TO",
     "name": "Restaurant Brands International Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Consumer Cyclical",
+    "industry": "Restaurants",
+    "market_cap_cad": 49416724480
   },
   {
     "ticker": "QST.V",
@@ -19395,7 +19403,9 @@
     "yf_ticker": "SAP.TO",
     "name": "Saputo Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Consumer Defensive",
+    "industry": "Packaged Foods",
+    "market_cap_cad": 17191260160
   },
   {
     "ticker": "SAPS.TO",
@@ -21285,7 +21295,9 @@
     "yf_ticker": "TFII.TO",
     "name": "TFI International Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Trucking",
+    "market_cap_cad": 18117910528
   },
   {
     "ticker": "TFPM.TO",
@@ -21377,7 +21389,9 @@
     "yf_ticker": "THX.V",
     "name": "Thor Explorations Ltd.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 723231872
   },
   {
     "ticker": "THY.P.V",
@@ -23395,7 +23409,9 @@
     "yf_ticker": "WSP.TO",
     "name": "WSP Global Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Engineering & Construction",
+    "market_cap_cad": 24687622144
   },
   {
     "ticker": "WSR.CN",
