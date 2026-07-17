@@ -2896,7 +2896,9 @@
     "yf_ticker": "BLAB.CN",
     "name": "Britannia Life Sciences Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "market_cap_cad": 11357804
   },
   {
     "ticker": "BLCC.P.V",
@@ -12252,7 +12254,9 @@
     "yf_ticker": "JSPX.V",
     "name": "JasperX Technologies Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "market_cap_cad": 7888918
   },
   {
     "ticker": "JTC.V",
@@ -13506,7 +13510,9 @@
     "yf_ticker": "LTC.V",
     "name": "Lotus Creek Exploration Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "market_cap_cad": 134351744
   },
   {
     "ticker": "LTH.V",
@@ -16303,7 +16309,9 @@
     "yf_ticker": "NXH.V",
     "name": "Next Hydrogen Solutions Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Specialty Industrial Machinery",
+    "market_cap_cad": 33963348
   },
   {
     "ticker": "NXLV.V",
@@ -16463,7 +16471,9 @@
     "yf_ticker": "OGO.V",
     "name": "Organto Foods Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Consumer Defensive",
+    "industry": "Food Distribution",
+    "market_cap_cad": 117506688
   },
   {
     "ticker": "OGW.V",
@@ -23088,7 +23098,9 @@
     "yf_ticker": "WFC.TO",
     "name": "Wall Financial Corporation",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Consumer Cyclical",
+    "industry": "Lodging",
+    "market_cap_cad": 618041024
   },
   {
     "ticker": "WFCS.TO",

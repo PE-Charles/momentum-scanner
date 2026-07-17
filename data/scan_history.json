@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-07-17",
+      "file": "signals_2026-07-17.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 234,
+      "top_conviction": {
+        "ticker": "ADE.V",
+        "score": 81,
+        "grade": "A"
+      },
+      "runtime_seconds": 484
+    },
+    {
       "date": "2026-07-16",
       "file": "signals_2026-07-16.json",
       "total_movers": 250,
