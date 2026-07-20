@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-07-20",
+      "file": "signals_2026-07-20.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 238,
+      "top_conviction": {
+        "ticker": "PKK.CN",
+        "score": 85,
+        "grade": "A"
+      },
+      "runtime_seconds": 506
+    },
+    {
       "date": "2026-07-17",
       "file": "signals_2026-07-17.json",
       "total_movers": 250,
