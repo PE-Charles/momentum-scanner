@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-07-21",
+      "file": "signals_2026-07-21.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 228,
+      "top_conviction": {
+        "ticker": "CYM.V",
+        "score": 86,
+        "grade": "A"
+      },
+      "runtime_seconds": 498
+    },
+    {
       "date": "2026-07-20",
       "file": "signals_2026-07-20.json",
       "total_movers": 250,
