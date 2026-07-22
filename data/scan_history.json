@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-07-22",
+      "file": "signals_2026-07-22.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 231,
+      "top_conviction": {
+        "ticker": "GRDM.V",
+        "score": 83,
+        "grade": "A"
+      },
+      "runtime_seconds": 472
+    },
+    {
       "date": "2026-07-21",
       "file": "signals_2026-07-21.json",
       "total_movers": 250,
