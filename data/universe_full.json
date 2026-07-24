@@ -19100,7 +19100,9 @@
     "yf_ticker": "RSS.V",
     "name": "Resaas Services Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "market_cap_cad": 34455168
   },
   {
     "ticker": "RTE.V",
