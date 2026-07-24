@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-07-24",
+      "file": "signals_2026-07-24.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 234,
+      "top_conviction": {
+        "ticker": "SDR.V",
+        "score": 80,
+        "grade": "A"
+      },
+      "runtime_seconds": 476
+    },
+    {
       "date": "2026-07-23",
       "file": "signals_2026-07-23.json",
       "total_movers": 250,
