@@ -21652,7 +21652,9 @@
     "yf_ticker": "TOI.V",
     "name": "Topicus.com Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "market_cap_cad": 21301014528
   },
   {
     "ticker": "TOM.V",

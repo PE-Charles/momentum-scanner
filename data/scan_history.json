@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-07-27",
+      "file": "signals_2026-07-27.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 236,
+      "top_conviction": {
+        "ticker": "UAV-X.CN",
+        "score": 88,
+        "grade": "A"
+      },
+      "runtime_seconds": 529
+    },
+    {
       "date": "2026-07-24",
       "file": "signals_2026-07-24.json",
       "total_movers": 250,
