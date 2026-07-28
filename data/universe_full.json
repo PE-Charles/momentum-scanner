@@ -1613,7 +1613,9 @@
     "yf_ticker": "ASEP.CN",
     "name": "ASEP Medical Holdings Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "market_cap_cad": 2222292
   },
   {
     "ticker": "ASG.V",
@@ -11495,7 +11497,9 @@
     "yf_ticker": "IDL.V",
     "name": "Imaging Dynamics Company Ltd.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Medical Devices",
+    "market_cap_cad": 775091
   },
   {
     "ticker": "IE.TO",
