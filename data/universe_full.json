@@ -18889,7 +18889,9 @@
     "yf_ticker": "RMO.V",
     "name": "Rainy Mountain Royalty Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 2100014
   },
   {
     "ticker": "RNCH.V",
