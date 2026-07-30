@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-07-30",
+      "file": "signals_2026-07-30.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 236,
+      "top_conviction": {
+        "ticker": "BHC.TO",
+        "score": 74,
+        "grade": "B"
+      },
+      "runtime_seconds": 499
+    },
+    {
       "date": "2026-07-29",
       "file": "signals_2026-07-29.json",
       "total_movers": 250,

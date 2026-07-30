@@ -18029,7 +18029,9 @@
     "yf_ticker": "PVT.V",
     "name": "Pivotree Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Information Technology Services",
+    "market_cap_cad": 39262960
   },
   {
     "ticker": "PWER.V",
