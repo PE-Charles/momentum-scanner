@@ -21554,7 +21554,9 @@
     "yf_ticker": "TLRY.TO",
     "name": "Tilray Brands, Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "market_cap_cad": 782715840
   },
   {
     "ticker": "TM.V",
