@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-08-04",
+      "file": "signals_2026-08-04.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 230,
+      "top_conviction": {
+        "ticker": "RDG.V",
+        "score": 76,
+        "grade": "A"
+      },
+      "runtime_seconds": 519
+    },
+    {
       "date": "2026-08-03",
       "file": "signals_2026-08-03.json",
       "total_movers": 250,
