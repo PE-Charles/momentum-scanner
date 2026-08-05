@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-08-05",
+      "file": "signals_2026-08-05.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 234,
+      "top_conviction": {
+        "ticker": "GTE.TO",
+        "score": 85,
+        "grade": "A"
+      },
+      "runtime_seconds": 532
+    },
+    {
       "date": "2026-08-04",
       "file": "signals_2026-08-04.json",
       "total_movers": 250,
