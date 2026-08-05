@@ -18769,7 +18769,9 @@
     "yf_ticker": "RIO.TO",
     "name": "Rio2 Limited",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 1666505344
   },
   {
     "ticker": "RIRA.TO",
