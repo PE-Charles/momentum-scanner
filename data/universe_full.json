@@ -3716,7 +3716,9 @@
     "yf_ticker": "C.CN",
     "name": "Commodore Metals Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 0
   },
   {
     "ticker": "CAC.P.V",
@@ -18955,7 +18957,9 @@
     "yf_ticker": "ROMJ.V",
     "name": "Rubicon Organics Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "market_cap_cad": 37168408
   },
   {
     "ticker": "ROOF.V",
@@ -22554,7 +22558,9 @@
     "yf_ticker": "VHI.TO",
     "name": "Vitalhub Corp.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Health Information Services",
+    "market_cap_cad": 499117952
   },
   {
     "ticker": "VIO.V",
