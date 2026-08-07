@@ -20968,7 +20968,9 @@
     "yf_ticker": "SWP.TO",
     "name": "Swiss Water Decaffeinated Coffee Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Consumer Defensive",
+    "industry": "Packaged Foods",
+    "market_cap_cad": 60911116
   },
   {
     "ticker": "SX.CN",
@@ -23455,7 +23457,9 @@
     "yf_ticker": "WTE.TO",
     "name": "Westshore Terminals Investment Corporation",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Marine Shipping",
+    "market_cap_cad": 0
   },
   {
     "ticker": "WUC.CN",
