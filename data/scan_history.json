@@ -5,13 +5,13 @@
       "file": "signals_2026-08-07.json",
       "total_movers": 250,
       "signals": 250,
-      "confirmed": 237,
+      "confirmed": 233,
       "top_conviction": {
-        "ticker": "GDN.CN",
-        "score": 81,
-        "grade": "A"
+        "ticker": "ROMJ.V",
+        "score": 74,
+        "grade": "B"
       },
-      "runtime_seconds": 548
+      "runtime_seconds": 501
     },
     {
       "date": "2026-08-05",
