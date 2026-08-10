@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-08-10",
+      "file": "signals_2026-08-10.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 233,
+      "top_conviction": {
+        "ticker": "HEVI.V",
+        "score": 83,
+        "grade": "A"
+      },
+      "runtime_seconds": 525
+    },
+    {
       "date": "2026-08-07",
       "file": "signals_2026-08-07.json",
       "total_movers": 250,
