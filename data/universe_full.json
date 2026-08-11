@@ -16461,7 +16461,9 @@
     "yf_ticker": "OGI.TO",
     "name": "Organigram Global Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "market_cap_cad": 237909792
   },
   {
     "ticker": "OGN.V",
@@ -17051,7 +17053,9 @@
     "yf_ticker": "PDV.TO",
     "name": "Prime Dividend Corp.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "market_cap_cad": 10748661
   },
   {
     "ticker": "PDVN.P.V",
@@ -20478,7 +20482,9 @@
     "yf_ticker": "SPOT.V",
     "name": "EarthLabs Inc",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Information Technology Services",
+    "market_cap_cad": 43735556
   },
   {
     "ticker": "SPRK.CN",
