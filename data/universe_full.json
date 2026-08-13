@@ -7104,7 +7104,9 @@
     "yf_ticker": "EDY.V",
     "name": "Eddy Smart Home Solutions Ltd.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Scientific & Technical Instruments",
+    "market_cap_cad": 10663804
   },
   {
     "ticker": "EESH.P.V",
