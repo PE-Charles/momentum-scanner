@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-08-13",
+      "file": "signals_2026-08-13.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 232,
+      "top_conviction": {
+        "ticker": "SCAI.V",
+        "score": 76,
+        "grade": "A"
+      },
+      "runtime_seconds": 469
+    },
+    {
       "date": "2026-08-12",
       "file": "signals_2026-08-12.json",
       "total_movers": 250,
