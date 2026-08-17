@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-08-17",
+      "file": "signals_2026-08-17.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 224,
+      "top_conviction": {
+        "ticker": "CEC.V",
+        "score": 87,
+        "grade": "A"
+      },
+      "runtime_seconds": 522
+    },
+    {
       "date": "2026-08-14",
       "file": "signals_2026-08-14.json",
       "total_movers": 250,

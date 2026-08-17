@@ -17472,7 +17472,9 @@
     "yf_ticker": "PLAN.V",
     "name": "Progressive Planet Solutions Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 44060780
   },
   {
     "ticker": "PLAS.CN",
