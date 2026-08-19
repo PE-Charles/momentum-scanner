@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-08-19",
+      "file": "signals_2026-08-19.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 229,
+      "top_conviction": {
+        "ticker": "LTX.V",
+        "score": 78,
+        "grade": "A"
+      },
+      "runtime_seconds": 513
+    },
+    {
       "date": "2026-08-18",
       "file": "signals_2026-08-18.json",
       "total_movers": 250,
