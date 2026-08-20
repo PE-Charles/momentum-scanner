@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-08-20",
+      "file": "signals_2026-08-20.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 230,
+      "top_conviction": {
+        "ticker": "CGD.V",
+        "score": 87,
+        "grade": "A"
+      },
+      "runtime_seconds": 559
+    },
+    {
       "date": "2026-08-19",
       "file": "signals_2026-08-19.json",
       "total_movers": 250,
