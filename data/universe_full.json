@@ -9430,7 +9430,9 @@
     "yf_ticker": "GENX.V",
     "name": "Genix Pharmaceuticals Corporation",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "market_cap_cad": 1224482
   },
   {
     "ticker": "GEO.TO",
@@ -21657,7 +21659,9 @@
     "yf_ticker": "TNX.V",
     "name": "TenX Protocols Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "market_cap_cad": 0
   },
   {
     "ticker": "TNZ.TO",
