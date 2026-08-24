@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-08-24",
+      "file": "signals_2026-08-24.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 233,
+      "top_conviction": {
+        "ticker": "PRCG.CN",
+        "score": 87,
+        "grade": "A"
+      },
+      "runtime_seconds": 502
+    },
+    {
       "date": "2026-08-21",
       "file": "signals_2026-08-21.json",
       "total_movers": 250,
