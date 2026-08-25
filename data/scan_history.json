@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-08-25",
+      "file": "signals_2026-08-25.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 147,
+      "top_conviction": {
+        "ticker": "MERG.V",
+        "score": 85,
+        "grade": "A"
+      },
+      "runtime_seconds": 3848
+    },
+    {
       "date": "2026-08-24",
       "file": "signals_2026-08-24.json",
       "total_movers": 250,
