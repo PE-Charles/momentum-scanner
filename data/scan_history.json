@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-08-27",
+      "file": "signals_2026-08-27.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 233,
+      "top_conviction": {
+        "ticker": "YOO.V",
+        "score": 77,
+        "grade": "A"
+      },
+      "runtime_seconds": 533
+    },
+    {
       "date": "2026-08-25",
       "file": "signals_2026-08-25.json",
       "total_movers": 250,
