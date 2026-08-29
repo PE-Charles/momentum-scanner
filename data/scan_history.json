@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-08-29",
+      "file": "signals_2026-08-29.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 231,
+      "top_conviction": {
+        "ticker": "AVCR.V",
+        "score": 86,
+        "grade": "A"
+      },
+      "runtime_seconds": 489
+    },
+    {
       "date": "2026-08-28",
       "file": "signals_2026-08-28.json",
       "total_movers": 250,
