@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-09-01",
+      "file": "signals_2026-09-01.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 240,
+      "top_conviction": {
+        "ticker": "PE.V",
+        "score": 86,
+        "grade": "A"
+      },
+      "runtime_seconds": 529
+    },
+    {
       "date": "2026-08-29",
       "file": "signals_2026-08-29.json",
       "total_movers": 250,

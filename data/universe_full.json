@@ -21938,7 +21938,9 @@
     "yf_ticker": "TSL.TO",
     "name": "Tree Island Steel Ltd.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Steel",
+    "market_cap_cad": 65391068
   },
   {
     "ticker": "TSLA.TO",
