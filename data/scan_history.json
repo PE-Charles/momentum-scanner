@@ -5,13 +5,13 @@
       "file": "signals_2026-09-01.json",
       "total_movers": 250,
       "signals": 250,
-      "confirmed": 240,
+      "confirmed": 145,
       "top_conviction": {
-        "ticker": "PE.V",
-        "score": 86,
+        "ticker": "NEXX.CN",
+        "score": 77,
         "grade": "A"
       },
-      "runtime_seconds": 529
+      "runtime_seconds": 3922
     },
     {
       "date": "2026-08-29",
