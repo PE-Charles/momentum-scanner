@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-09-02",
+      "file": "signals_2026-09-02.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 229,
+      "top_conviction": {
+        "ticker": "GCC.CN",
+        "score": 84,
+        "grade": "A"
+      },
+      "runtime_seconds": 542
+    },
+    {
       "date": "2026-09-01",
       "file": "signals_2026-09-01.json",
       "total_movers": 250,
