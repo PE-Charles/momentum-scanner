@@ -22313,7 +22313,9 @@
     "yf_ticker": "URL.CN",
     "name": "NameSilo Technologies Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "market_cap_cad": 133296672
   },
   {
     "ticker": "URZ.V",
