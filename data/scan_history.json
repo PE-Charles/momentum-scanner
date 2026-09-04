@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-09-04",
+      "file": "signals_2026-09-04.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 234,
+      "top_conviction": {
+        "ticker": "IN.V",
+        "score": 83,
+        "grade": "A"
+      },
+      "runtime_seconds": 521
+    },
+    {
       "date": "2026-09-03",
       "file": "signals_2026-09-03.json",
       "total_movers": 250,
