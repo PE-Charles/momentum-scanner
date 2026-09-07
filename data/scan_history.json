@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-09-07",
+      "file": "signals_2026-09-07.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 238,
+      "top_conviction": {
+        "ticker": "TRCG.V",
+        "score": 78,
+        "grade": "A"
+      },
+      "runtime_seconds": 500
+    },
+    {
       "date": "2026-09-04",
       "file": "signals_2026-09-04.json",
       "total_movers": 250,
