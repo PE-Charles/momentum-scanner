@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-09-08",
+      "file": "signals_2026-09-08.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 227,
+      "top_conviction": {
+        "ticker": "STS.V",
+        "score": 85,
+        "grade": "A"
+      },
+      "runtime_seconds": 534
+    },
+    {
       "date": "2026-09-07",
       "file": "signals_2026-09-07.json",
       "total_movers": 250,
