@@ -3077,7 +3077,9 @@
     "yf_ticker": "BMT.CN",
     "name": "Bahia Metals Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 15542798
   },
   {
     "ticker": "BMV.V",
@@ -16273,7 +16275,9 @@
     "yf_ticker": "NWC.TO",
     "name": "North West Company Inc. (The)",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Consumer Defensive",
+    "industry": "Grocery Stores",
+    "market_cap_cad": 0
   },
   {
     "ticker": "NWI.CN",
