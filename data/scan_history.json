@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-09-09",
+      "file": "signals_2026-09-09.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 229,
+      "top_conviction": {
+        "ticker": "VRTX.CN",
+        "score": 86,
+        "grade": "A"
+      },
+      "runtime_seconds": 514
+    },
+    {
       "date": "2026-09-08",
       "file": "signals_2026-09-08.json",
       "total_movers": 250,
