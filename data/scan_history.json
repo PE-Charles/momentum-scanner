@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-09-11",
+      "file": "signals_2026-09-11.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 236,
+      "top_conviction": {
+        "ticker": "NICN.V",
+        "score": 83,
+        "grade": "A"
+      },
+      "runtime_seconds": 497
+    },
+    {
       "date": "2026-09-10",
       "file": "signals_2026-09-10.json",
       "total_movers": 250,
