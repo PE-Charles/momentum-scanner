@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-09-14",
+      "file": "signals_2026-09-14.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 237,
+      "top_conviction": {
+        "ticker": "CNO.V",
+        "score": 86,
+        "grade": "A"
+      },
+      "runtime_seconds": 533
+    },
+    {
       "date": "2026-09-11",
       "file": "signals_2026-09-11.json",
       "total_movers": 250,
