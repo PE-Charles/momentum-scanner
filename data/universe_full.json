@@ -22478,7 +22478,9 @@
     "yf_ticker": "VCM.TO",
     "name": "Vecima Networks Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Communication Equipment",
+    "market_cap_cad": 316332896
   },
   {
     "ticker": "VCT.V",
