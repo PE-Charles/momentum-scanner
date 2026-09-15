@@ -16535,7 +16535,9 @@
     "yf_ticker": "OLY.TO",
     "name": "Olympia Financial Group Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "market_cap_cad": 236879824
   },
   {
     "ticker": "OM.TO",

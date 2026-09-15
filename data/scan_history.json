@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-09-15",
+      "file": "signals_2026-09-15.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 232,
+      "top_conviction": {
+        "ticker": "REVV.CN",
+        "score": 88,
+        "grade": "A"
+      },
+      "runtime_seconds": 535
+    },
+    {
       "date": "2026-09-14",
       "file": "signals_2026-09-14.json",
       "total_movers": 250,
