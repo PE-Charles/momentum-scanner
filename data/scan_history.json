@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-09-18",
+      "file": "signals_2026-09-18.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 225,
+      "top_conviction": {
+        "ticker": "VLD.V",
+        "score": 82,
+        "grade": "A"
+      },
+      "runtime_seconds": 521
+    },
+    {
       "date": "2026-09-17",
       "file": "signals_2026-09-17.json",
       "total_movers": 250,
