@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-09-22",
+      "file": "signals_2026-09-22.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 234,
+      "top_conviction": {
+        "ticker": "APMI.V",
+        "score": 84,
+        "grade": "A"
+      },
+      "runtime_seconds": 515
+    },
+    {
       "date": "2026-09-21",
       "file": "signals_2026-09-21.json",
       "total_movers": 250,
