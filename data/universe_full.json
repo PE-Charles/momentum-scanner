@@ -19304,7 +19304,9 @@
     "yf_ticker": "RX.V",
     "name": "BioSyent Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "market_cap_cad": 197791520
   },
   {
     "ticker": "RXM.CN",
