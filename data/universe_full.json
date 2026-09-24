@@ -3610,7 +3610,9 @@
     "yf_ticker": "BUX.CN",
     "name": "Biomark Diagnostics Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research",
+    "market_cap_cad": 57501056
   },
   {
     "ticker": "BUZ.P.V",
