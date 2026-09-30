@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-09-30",
+      "file": "signals_2026-09-30.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 240,
+      "top_conviction": {
+        "ticker": "PLUR.V",
+        "score": 88,
+        "grade": "A"
+      },
+      "runtime_seconds": 522
+    },
+    {
       "date": "2026-09-29",
       "file": "signals_2026-09-29.json",
       "total_movers": 250,

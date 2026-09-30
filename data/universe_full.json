@@ -16811,7 +16811,9 @@
     "yf_ticker": "PA.V",
     "name": "Palamina Corp.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 16782270
   },
   {
     "ticker": "PAAS.TO",
