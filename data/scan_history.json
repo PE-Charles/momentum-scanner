@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-10-06",
+      "file": "signals_2026-10-06.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 220,
+      "top_conviction": {
+        "ticker": "HRNY.CN",
+        "score": 87,
+        "grade": "A"
+      },
+      "runtime_seconds": 506
+    },
+    {
       "date": "2026-10-03",
       "file": "signals_2026-10-03.json",
       "total_movers": 250,
