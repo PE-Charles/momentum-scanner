@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-10-07",
+      "file": "signals_2026-10-07.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 216,
+      "top_conviction": {
+        "ticker": "ROB.V",
+        "score": 87,
+        "grade": "A"
+      },
+      "runtime_seconds": 523
+    },
+    {
       "date": "2026-10-06",
       "file": "signals_2026-10-06.json",
       "total_movers": 250,
