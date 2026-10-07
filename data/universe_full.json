@@ -22771,7 +22771,9 @@
     "yf_ticker": "VOXR.TO",
     "name": "Vox Royalty Corp.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "market_cap_cad": 517739808
   },
   {
     "ticker": "VPI.V",
