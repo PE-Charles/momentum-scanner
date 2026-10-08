@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-10-08",
+      "file": "signals_2026-10-08.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 230,
+      "top_conviction": {
+        "ticker": "PONY.CN",
+        "score": 77,
+        "grade": "A"
+      },
+      "runtime_seconds": 569
+    },
+    {
       "date": "2026-10-07",
       "file": "signals_2026-10-07.json",
       "total_movers": 250,
