@@ -18506,7 +18506,9 @@
     "yf_ticker": "RCH.TO",
     "name": "Richelieu Hardware Ltd.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Industrials",
+    "industry": "Tools & Accessories",
+    "market_cap_cad": 0
   },
   {
     "ticker": "RCI.A.TO",
