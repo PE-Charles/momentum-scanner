@@ -20627,7 +20627,9 @@
     "yf_ticker": "SRR.V",
     "name": "Source Rock Royalties Ltd.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Energy",
+    "industry": "Oil & Gas Midstream",
+    "market_cap_cad": 51508484
   },
   {
     "ticker": "SRS.CN",
