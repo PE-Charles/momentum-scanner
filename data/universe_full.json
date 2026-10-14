@@ -5719,7 +5719,9 @@
     "yf_ticker": "CU.TO",
     "name": "Canadian Utilities Limited",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Utilities",
+    "industry": "Utilities - Diversified",
+    "market_cap_cad": 13540277248
   },
   {
     "ticker": "CUAU.CN",
@@ -7348,7 +7350,9 @@
     "yf_ticker": "EMA.TO",
     "name": "Emera Incorporated",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Utilities",
+    "industry": "Utilities - Regulated Electric",
+    "market_cap_cad": 20569837568
   },
   {
     "ticker": "EMET.CN",
@@ -18769,7 +18773,9 @@
     "yf_ticker": "RIC.TO",
     "name": "Richards Group Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Consumer Cyclical",
+    "industry": "Packaging & Containers",
+    "market_cap_cad": 314648768
   },
   {
     "ticker": "RIFI.TO",
