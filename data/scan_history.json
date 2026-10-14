@@ -5,13 +5,13 @@
       "file": "signals_2026-10-14.json",
       "total_movers": 250,
       "signals": 250,
-      "confirmed": 227,
+      "confirmed": 226,
       "top_conviction": {
-        "ticker": "NCI.V",
-        "score": 76,
+        "ticker": "DDD.V",
+        "score": 82,
         "grade": "A"
       },
-      "runtime_seconds": 542
+      "runtime_seconds": 728
     },
     {
       "date": "2026-10-13",
