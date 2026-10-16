@@ -20313,7 +20313,9 @@
     "yf_ticker": "SNDL.CN",
     "name": "SNDL Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Consumer Defensive",
+    "industry": "Beverages - Wineries & Distilleries",
+    "market_cap_cad": 455323584
   },
   {
     "ticker": "SNG.V",

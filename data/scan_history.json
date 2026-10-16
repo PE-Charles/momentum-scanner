@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-10-16",
+      "file": "signals_2026-10-16.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 223,
+      "top_conviction": {
+        "ticker": "PCQ.V",
+        "score": 76,
+        "grade": "A"
+      },
+      "runtime_seconds": 551
+    },
+    {
       "date": "2026-10-15",
       "file": "signals_2026-10-15.json",
       "total_movers": 250,
