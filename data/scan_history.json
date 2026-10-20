@@ -5,13 +5,13 @@
       "file": "signals_2026-10-20.json",
       "total_movers": 250,
       "signals": 250,
-      "confirmed": 235,
+      "confirmed": 236,
       "top_conviction": {
-        "ticker": "MIVO.V",
-        "score": 82,
+        "ticker": "NICN.V",
+        "score": 76,
         "grade": "A"
       },
-      "runtime_seconds": 540
+      "runtime_seconds": 547
     },
     {
       "date": "2026-10-16",
