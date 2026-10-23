@@ -21092,7 +21092,9 @@
     "yf_ticker": "T.TO",
     "name": "TELUS Corporation",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Communication Services",
+    "industry": "Telecom Services",
+    "market_cap_cad": 19482750976
   },
   {
     "ticker": "TA.TO",
