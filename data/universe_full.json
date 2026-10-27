@@ -7313,7 +7313,9 @@
     "yf_ticker": "ELM.V",
     "name": "Element Lifestyle Retirement Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Medical Care Facilities",
+    "market_cap_cad": 1057174
   },
   {
     "ticker": "ELO.TO",
@@ -11028,7 +11030,9 @@
     "yf_ticker": "HLF.TO",
     "name": "High Liner Foods Incorporated",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Consumer Defensive",
+    "industry": "Packaged Foods",
+    "market_cap_cad": 749410368
   },
   {
     "ticker": "HLND.CN",
@@ -20697,7 +20701,9 @@
     "yf_ticker": "STAR.CN",
     "name": "Starmet Ventures Inc.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "market_cap_cad": 2921635
   },
   {
     "ticker": "STC.TO",
