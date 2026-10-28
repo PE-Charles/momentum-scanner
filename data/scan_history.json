@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-10-28",
+      "file": "signals_2026-10-28.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 229,
+      "top_conviction": {
+        "ticker": "CLCO.V",
+        "score": 87,
+        "grade": "A"
+      },
+      "runtime_seconds": 533
+    },
+    {
       "date": "2026-10-27",
       "file": "signals_2026-10-27.json",
       "total_movers": 250,
