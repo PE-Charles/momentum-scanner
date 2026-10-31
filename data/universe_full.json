@@ -13458,7 +13458,9 @@
     "yf_ticker": "LOVE.TO",
     "name": "Cannara Biotech Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "market_cap_cad": 198552112
   },
   {
     "ticker": "LPK.V",
@@ -23562,7 +23564,9 @@
     "yf_ticker": "X.TO",
     "name": "TMX Group Limited",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Financial Services",
+    "industry": "Financial Data & Stock Exchanges",
+    "market_cap_cad": 16542833664
   },
   {
     "ticker": "XAU.TO",
