@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-11-03",
+      "file": "signals_2026-11-03.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 241,
+      "top_conviction": {
+        "ticker": "STMP.V",
+        "score": 85,
+        "grade": "A"
+      },
+      "runtime_seconds": 464
+    },
+    {
       "date": "2026-10-31",
       "file": "signals_2026-10-31.json",
       "total_movers": 250,
