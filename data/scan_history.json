@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-11-05",
+      "file": "signals_2026-11-05.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 243,
+      "top_conviction": {
+        "ticker": "FCI.V",
+        "score": 82,
+        "grade": "A"
+      },
+      "runtime_seconds": 443
+    },
+    {
       "date": "2026-11-04",
       "file": "signals_2026-11-04.json",
       "total_movers": 250,
