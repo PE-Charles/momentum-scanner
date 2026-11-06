@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-11-06",
+      "file": "signals_2026-11-06.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 240,
+      "top_conviction": {
+        "ticker": "PURE.CN",
+        "score": 78,
+        "grade": "A"
+      },
+      "runtime_seconds": 488
+    },
+    {
       "date": "2026-11-05",
       "file": "signals_2026-11-05.json",
       "total_movers": 250,

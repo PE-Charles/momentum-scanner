@@ -4626,7 +4626,9 @@
     "yf_ticker": "CIA.TO",
     "name": "Champion Iron Limited",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Steel",
+    "market_cap_cad": 1142495616
   },
   {
     "ticker": "CIAI.TO",
@@ -16467,7 +16469,9 @@
     "yf_ticker": "OGC.TO",
     "name": "OceanaGold Corporation",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 8535311360
   },
   {
     "ticker": "OGD.TO",
@@ -20055,7 +20059,9 @@
     "yf_ticker": "SJ.TO",
     "name": "Stella-Jones Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Lumber & Wood Production",
+    "market_cap_cad": 3548324864
   },
   {
     "ticker": "SK.CN",
