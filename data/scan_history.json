@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-11-10",
+      "file": "signals_2026-11-10.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 246,
+      "top_conviction": {
+        "ticker": "FHYD.V",
+        "score": 74,
+        "grade": "B"
+      },
+      "runtime_seconds": 472
+    },
+    {
       "date": "2026-11-07",
       "file": "signals_2026-11-07.json",
       "total_movers": 250,
