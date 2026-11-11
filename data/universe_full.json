@@ -767,7 +767,9 @@
     "yf_ticker": "AIM.TO",
     "name": "Aimia Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals",
+    "market_cap_cad": 255572896
   },
   {
     "ticker": "AIME.P.V",
