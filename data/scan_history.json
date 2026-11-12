@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-11-12",
+      "file": "signals_2026-11-12.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 242,
+      "top_conviction": {
+        "ticker": "TT.V",
+        "score": 73,
+        "grade": "B"
+      },
+      "runtime_seconds": 471
+    },
+    {
       "date": "2026-11-11",
       "file": "signals_2026-11-11.json",
       "total_movers": 250,
