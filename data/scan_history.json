@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-11-13",
+      "file": "signals_2026-11-13.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 240,
+      "top_conviction": {
+        "ticker": "AIOS.CN",
+        "score": 80,
+        "grade": "A"
+      },
+      "runtime_seconds": 467
+    },
+    {
       "date": "2026-11-12",
       "file": "signals_2026-11-12.json",
       "total_movers": 250,
