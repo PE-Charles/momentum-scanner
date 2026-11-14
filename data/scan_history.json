@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-11-14",
+      "file": "signals_2026-11-14.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 246,
+      "top_conviction": {
+        "ticker": "HWO.TO",
+        "score": 80,
+        "grade": "A"
+      },
+      "runtime_seconds": 473
+    },
+    {
       "date": "2026-11-13",
       "file": "signals_2026-11-13.json",
       "total_movers": 250,
