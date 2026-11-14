@@ -15880,7 +15880,9 @@
     "yf_ticker": "NPI.TO",
     "name": "Northland Power Inc.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Utilities",
+    "industry": "Utilities - Renewable",
+    "market_cap_cad": 6239438848
   },
   {
     "ticker": "NPK.TO",
