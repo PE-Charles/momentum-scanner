@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-11-18",
+      "file": "signals_2026-11-18.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 237,
+      "top_conviction": {
+        "ticker": "DTEA.V",
+        "score": 75,
+        "grade": "A"
+      },
+      "runtime_seconds": 452
+    },
+    {
       "date": "2026-11-17",
       "file": "signals_2026-11-17.json",
       "total_movers": 250,
