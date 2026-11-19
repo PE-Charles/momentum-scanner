@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-11-19",
+      "file": "signals_2026-11-19.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 239,
+      "top_conviction": {
+        "ticker": "UTWO.V",
+        "score": 80,
+        "grade": "A"
+      },
+      "runtime_seconds": 452
+    },
+    {
       "date": "2026-11-18",
       "file": "signals_2026-11-18.json",
       "total_movers": 250,

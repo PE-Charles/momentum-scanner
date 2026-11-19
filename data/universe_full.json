@@ -13557,7 +13557,9 @@
     "yf_ticker": "LTV.V",
     "name": "LeoNovus Inc.",
     "exchange": "TSXV",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "market_cap_cad": 1145049
   },
   {
     "ticker": "LTX.V",
