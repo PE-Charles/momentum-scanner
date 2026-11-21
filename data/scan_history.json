@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-11-21",
+      "file": "signals_2026-11-21.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 232,
+      "top_conviction": {
+        "ticker": "TMIN.CN",
+        "score": 78,
+        "grade": "A"
+      },
+      "runtime_seconds": 449
+    },
+    {
       "date": "2026-11-20",
       "file": "signals_2026-11-20.json",
       "total_movers": 250,
