@@ -16210,7 +16210,9 @@
     "yf_ticker": "NVDA.TO",
     "name": "Nvidia CDR (CAD Hedged)",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "market_cap_cad": 5099891982336
   },
   {
     "ticker": "NVI.V",
