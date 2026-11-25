@@ -23212,7 +23212,9 @@
     "yf_ticker": "WFG.TO",
     "name": "West Fraser Timber Co. Ltd.",
     "exchange": "TSX",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Lumber & Wood Production",
+    "market_cap_cad": 7687869440
   },
   {
     "ticker": "WG.CN",
