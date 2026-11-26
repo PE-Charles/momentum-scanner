@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-11-26",
+      "file": "signals_2026-11-26.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 240,
+      "top_conviction": {
+        "ticker": "BARU.V",
+        "score": 75,
+        "grade": "A"
+      },
+      "runtime_seconds": 456
+    },
+    {
       "date": "2026-11-25",
       "file": "signals_2026-11-25.json",
       "total_movers": 250,
