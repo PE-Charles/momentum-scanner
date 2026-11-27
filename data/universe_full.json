@@ -19467,7 +19467,9 @@
     "yf_ticker": "SANU.CN",
     "name": "Sanu Gold Corp.",
     "exchange": "CSE",
-    "sector": "Other"
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "market_cap_cad": 65331748
   },
   {
     "ticker": "SAO.V",

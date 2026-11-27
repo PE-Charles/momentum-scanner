@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-11-27",
+      "file": "signals_2026-11-27.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 232,
+      "top_conviction": {
+        "ticker": "VPI.V",
+        "score": 77,
+        "grade": "A"
+      },
+      "runtime_seconds": 474
+    },
+    {
       "date": "2026-11-26",
       "file": "signals_2026-11-26.json",
       "total_movers": 250,
