@@ -1,6 +1,19 @@
 {
   "scans": [
     {
+      "date": "2026-11-28",
+      "file": "signals_2026-11-28.json",
+      "total_movers": 250,
+      "signals": 250,
+      "confirmed": 233,
+      "top_conviction": {
+        "ticker": "MIVO.V",
+        "score": 74,
+        "grade": "B"
+      },
+      "runtime_seconds": 500
+    },
+    {
       "date": "2026-11-27",
       "file": "signals_2026-11-27.json",
       "total_movers": 250,
